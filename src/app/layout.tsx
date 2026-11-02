@@ -19,6 +19,7 @@ export const viewport: Viewport = { themeColor: "#1c0f06" };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ar" dir="rtl" className={amiri.variable}>
+      
       <body>{children}</body>
     </html>
   );

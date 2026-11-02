@@ -123,7 +123,7 @@ export function Book({ title, pages }: PoemBook) {
         className="book-shell"
         data-single={single}
       >
-        <Image src={"/book-bg.png"} alt="book bg" className="select-none inset-0 w-full " fill />
+        <Image src={"/book-bg.png"}  preload={true} alt="book bg" className="select-none inset-0 w-full " fill />
         <CoverTrim single={single} />
 
         <motion.div
