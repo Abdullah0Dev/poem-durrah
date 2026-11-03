@@ -19,6 +19,8 @@ interface LeafProps {
   drag: MotionValue<number>;
   /** Bumped after every gesture so an abandoned drag springs back. */
   settle: number;
+  /** Flip-through mode (jumping to a poem): turns run at double speed. */
+  rush: boolean;
 }
 
 /**
@@ -27,7 +29,7 @@ interface LeafProps {
  * to the RIGHT: rotateY 0° → 180°. It follows the pointer while dragged, then eases to rest.
  * Only transform + opacity are animated (compositor-only).
  */
-export const Leaf = memo(function Leaf({ order, total, current, flipped, single, front, back, drag, settle }: LeafProps) {
+export const Leaf = memo(function Leaf({ order, total, current, flipped, single, front, back, drag, settle, rush }: LeafProps) {
   const rotate = useMotionValue(flipped ? 180 : 0);
   const [turning, setTurning] = useState(false);
   const turningRef = useRef(false);
@@ -61,12 +63,12 @@ export const Leaf = memo(function Leaf({ order, total, current, flipped, single,
     if (dist < 0.5) { rotate.set(target); end(); return; }
     begin();
     const c = animate(rotate, target, {
-      duration: reduce ? 0.01 : flipDuration(dist),
+      duration: reduce ? 0.01 : flipDuration(dist) * (rush ? 0.5 : 1),
       ease: dist < 179.5 ? SETTLE_EASE : FLIP_EASE,
       onComplete: end,
     });
     return () => c.stop();
-  }, [flipped, settle, reduce, rotate]);
+  }, [flipped, settle, reduce, rotate]); // `rush` is read at start only
 
   const skewY = useTransform(rotate, [0, 90, 180], [0, -1.3, 0]);           // slight paper curl
   const frontShade = useTransform(rotate, [0, 90], [0, 0.55]);
@@ -99,7 +101,7 @@ export const Leaf = memo(function Leaf({ order, total, current, flipped, single,
           transformOrigin: "right center",
           zIndex,
           pointerEvents: single && flipped ? "none" : "auto",
-          willChange: turning ? "transform" : "auto",
+          willChange: turning || isNext || isPrev ? "transform" : "auto", // pre-promote the two sheets about to move
         }}
       >
         <div className="bk-hidden absolute inset-0">

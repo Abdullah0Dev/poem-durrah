@@ -23,3 +23,7 @@ export const ExpandIcon = (p: SVGProps<SVGSVGElement>) => (
 export const ChevronIcon = (p: SVGProps<SVGSVGElement>) => (
   <svg {...base} strokeWidth={2.6} {...p}><path d="m9 5 7 7-7 7" /></svg>
 );
+
+export const ListIcon = (p: SVGProps<SVGSVGElement>) => (
+  <svg {...base} {...p}><path d="M9 6h11M9 12h11M9 18h11" /><circle cx="4.5" cy="6" r="1" fill="currentColor" /><circle cx="4.5" cy="12" r="1" fill="currentColor" /><circle cx="4.5" cy="18" r="1" fill="currentColor" /></svg>
+);

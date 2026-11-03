@@ -188,7 +188,7 @@ body {
 .verse-line {
   display: block;
   font-weight: "900";
-  font-size: 4.9cqw;
+  font-size: 5cqw;
   line-height: 1.7;
   text-wrap: balance;
 }
@@ -212,7 +212,6 @@ body {
     0 0 0.5px rgba(43, 24, 10, 0.7),
     0 0.15cqw 0 rgba(255, 244, 214, 0.35);
 }
-
 /* ---------- Cover tooling ---------- */
 .book-shell::before {
   content: "";
@@ -268,4 +267,20 @@ body {
   .lamp {
     animation: none;
   }
+}
+
+/* ribbon is now a button (jumps to the index) */
+.book-ribbon {
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  transition:
+    transform 0.25s ease,
+    filter 0.25s ease;
+}
+.book-ribbon:hover,
+.book-ribbon:focus-visible {
+  transform: translate(-50%, 0.6rem);
+  filter: brightness(1.25);
+  outline: none;
 }

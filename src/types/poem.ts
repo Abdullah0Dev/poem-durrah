@@ -1,7 +1,7 @@
 export type MediaType = "image" | "video";
 
 export interface VerseMedia {
-  /** Local (`/media/x.jpg`) or remote (`https://...`) URL. */
+  /** Local (`/media/x.jpg`, always with a leading slash) or remote (`https://...`) URL. */
   src: string;
   /** Optional – inferred from the file extension when omitted. */
   type?: MediaType;
@@ -10,20 +10,28 @@ export interface VerseMedia {
   poster?: string;
 }
 
-/** One "بيت" – a line of poetry with the media shown above it. */
+/** One "بيت": `text` is "صدر ** عجز". */
 export interface Verse {
   id: string;
   text: string;
   media: VerseMedia;
 }
 
-/** A physical page holding three verses. */
+/** A physical page holding up to three verses. */
 export interface BookPage {
   id: string;
   verses: Verse[];
 }
 
-export interface PoemBook {
+export interface Poem {
+  id: string;
   title: string;
+  poet?: string;
   pages: BookPage[];
+}
+
+/** The whole book: a diwan made of several poems. The index (فهرس) is generated automatically. */
+export interface Diwan {
+  title: string;
+  poems: Poem[];
 }

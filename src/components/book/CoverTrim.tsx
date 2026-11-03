@@ -8,14 +8,14 @@ const corners = [
 ];
 
 /** Gilded corner tooling + the ribbon bookmark hanging from the spine. */
-export function CoverTrim({ single }: { single: boolean }) {
+export function CoverTrim({ single, onIndex }: { single: boolean; onIndex?: () => void }) {
   return (
     <>
       {corners.map((c, i) => (
         <CornerFlourish key={i} className="pointer-events-none absolute z-0 text-[#c9a45c]/80"
           style={{ width: "calc(var(--cover) * 1.9)", height: "calc(var(--cover) * 1.9)", ...c }} />
       ))}
-      {!single && <span aria-hidden className="book-ribbon" />}
+      {!single && <button type="button" aria-label="الفهرس" title="الفهرس" onClick={onIndex} className="book-ribbon" />}
     </>
   );
 }

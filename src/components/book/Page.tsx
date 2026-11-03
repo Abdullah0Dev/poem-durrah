@@ -3,9 +3,10 @@
 import { memo, useContext } from "react";
 import { cn } from "@/lib/cn";
 import { toArabicNumber } from "@/lib/format";
-import type { BookPage } from "@/types/poem";
+import type { RenderPage } from "@/lib/diwan";
 import { BookControlsContext, type NavAction } from "./BookContext";
 import { ChevronIcon } from "./Icons";
+import { IndexBody } from "./IndexBody";
 import { CornerFlourish, FooterOrnament, TitleFlourish } from "./Ornaments";
 import { Plate } from "./Plate";
 import { VerseCard } from "./VerseCard";
@@ -16,7 +17,7 @@ interface PageProps {
   title: string;
   number: number;
   side: "left" | "right";
-  page?: BookPage;
+  page?: RenderPage;
   active: boolean;
   nav: NavMode;
 }
@@ -50,6 +51,26 @@ function NavButton({ dir, edge }: { dir: "prev" | "next"; edge: "left" | "right"
   );
 }
 
+function FooterTitle({ text }: { text: string }) {
+  const line = "h-px w-[5cqw] bg-gradient-to-l from-[#6b4a22]/70 to-transparent";
+  return (
+    <div dir="rtl" className="pointer-events-none absolute bottom-[4.4cqw] left-1/2 z-10 flex max-w-[44cqw] -translate-x-1/2 items-center gap-[1.4cqw]">
+      <span aria-hidden className={line} />
+      <span className="ink truncate text-[3.3cqw] font-bold leading-[1.5] text-[#4a2f14]">{text}</span>
+      <span aria-hidden className={`${line} rotate-180`} />
+    </div>
+  );
+}
+
+function Colophon() {
+  return (
+    <div className="flex flex-col items-center justify-center gap-[1cqw] text-[#6b4a22]" aria-hidden>
+      <FooterOrnament className="h-[5cqw] w-[30cqw]" />
+      <span className="ink text-[4cqw] font-bold text-[#4a2f14]">تَمَّتِ القَصيدة</span>
+    </div>
+  );
+}
+
 export const Page = memo(function Page({ title, number, side, page, active, nav }: PageProps) {
   return (
     <div
@@ -71,7 +92,7 @@ export const Page = memo(function Page({ title, number, side, page, active, nav 
           <div className="order-2 flex items-center gap-[1cqw]">
             <TitleFlourish className="h-[4.5cqw] w-[13cqw]" />
             <Plate shape="cartouche" faceClassName="px-[6cqw] py-[1.4cqw]">
-              <h2 dir="rtl" className="ink whitespace-nowrap text-center text-[6.4cqw] font-bold leading-[1.25] text-[#2f1c0b]">{title}</h2>
+              <h2 dir="rtl" className="ink whitespace-nowrap text-center text-[6.4cqw] font-bold leading-[1.25] text-[#2f1c0b]">{page?.kind === "verses" ? page.poemTitle : title}</h2>
             </Plate>
             <TitleFlourish mirrored className="h-[4.5cqw] w-[13cqw]" />
           </div>
@@ -82,11 +103,20 @@ export const Page = memo(function Page({ title, number, side, page, active, nav 
           </div>
         </header>
 
-        <div className="relative z-10 mt-[3cqw] grid min-h-0 flex-1 grid-rows-3 gap-[2.2cqw] px-[1cqw]">
-          {page?.verses.slice(0, 3).map((v) => <VerseCard key={v.id} verse={v} active={active} />)}
-        </div>
+        {page?.kind === "index" ? (
+          <IndexBody entries={page.entries} />
+        ) : (
+          <div className="relative z-10 mt-[3cqw] grid min-h-0 flex-1 grid-rows-3 gap-[2.2cqw] px-[1cqw]">
+            {[0, 1, 2].map((i) => {
+              const v = page?.verses[i];
+              if (v) return <VerseCard key={v.id} verse={v} active={active} />;
+              return <div key={i} className="min-h-0">{page?.poemEnd && i === page.verses.length ? <Colophon /> : null}</div>;
+            })}
+          </div>
+        )}
 
-        <FooterOrnament className="pointer-events-none absolute bottom-[5.2cqw] left-1/2 z-10 h-[4.4cqw] w-[24cqw] -translate-x-1/2 text-[#6b4a22]" />
+        {page && <FooterTitle text={page.kind === "index" ? "الفهرس" : ""} /> //page.poemTitle
+        }
         {(nav === "next" || nav === "both") && <NavButton dir="next" edge="left" />}
         {(nav === "prev" || nav === "both") && <NavButton dir="prev" edge="right" />}
 
