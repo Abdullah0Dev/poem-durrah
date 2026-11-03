@@ -1,0 +1,51 @@
+{
+  "context": {
+    "poet": "صفي الدين الحلي",
+    "era_and_region": "العصر المملوكي، العراق والشام",
+    "occasion": "نظمها الشاعر في الفخر بقومه (بني طي) بعد انتصارهم في معركة مع خصومهم استرداداً لثأر قديم، وتعد من أشهر قصائد الفخر في الأدب العربي.",
+    "summary": "تجسد الأبيات ذروة الاعتداد بالنفس والأنفة العربية، حيث يدعو الشاعر الخصوم لسؤال آلات الحرب (الرماح والسيوف) عن بطولات قومه، مؤكداً أنهم لا يرضون بأنصاف الحلول؛ فإما السيادة المطلقة وتصدر المحافل، أو الموت الذي يضمن الكرامة.",
+    "mood": "حماسي، فخري، يتسم بالثقة المطلقة والصرامة.",
+    "recurring_imagery": [
+      "الرماح العوالي (كناية عن القوة والارتفاع)",
+      "البيض (السيوف القاطعة)",
+      "الصدر (رمزية القيادة والسيادة)",
+      "القبر (رمزية التضحية والأنفة من الذل)"
+    ]
+  },
+  "verses": [
+    {
+      "verse_index": 1,
+      "verse": "سَلِ الرِّماحَ العَوالي عَن مَعالِيَنا ... وَاستَشهِدِ البيضَ هَل خابَ الرَّجا فينا",
+      "queries": [
+        "لقطة قريبة لأسنة رماح حادة وسيوف لامعة تعكس ضوء الشمس القوي",
+        "فرسان عرب فوق خيولهم يرفعون سيوفاً بيضاء بعد نصر في معركة",
+        "مشهد واسع لصحراء شاسعة فيها غبار خلف خيول محاربين منطلقين",
+        "يد مقاتل قوي تقبض على مقبض سيف عربي مزخرف بصلابة"
+      ],
+      "clip_id": "1026",
+      "caption": "فرسان مسلمون يقاتلون الأعداء في معركة بالسيوف على خيولهم في الصحراء",
+      "confidence": 0.9,
+      "reason": "The clip shows knights in active combat with swords, which directly illustrates the verse's reference to the 'swords' (البيض) witnessing their heroic deeds.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1026.mp4",
+      "path": "/Volumes/Alhamdulillah/Projects/Websites/درة-الشعر/public/media/1/verse_01.mp4",
+      "public_url": "/media/1/verse_01.mp4"
+    },
+    {
+      "verse_index": 2,
+      "verse": "وَنَحنُ أُناسٌ لا تَوَسُّطَ عِندَنا ... لَنا الصَدرُ دونَ العالَمينَ أَوِ القَبرُ",
+      "queries": [
+        "لقطة سينمائية لشيخ قبيلة مهيب يتصدر مجلساً عربياً واسعاً بوقار",
+        "مشهد لقبر وحيد منعزل وسط رمال الصحراء الشاسعة وقت الغروب",
+        "فرسان عرب يمتطون خيولهم رافعين رؤوسهم عالياً في وضح النهار",
+        "لقطة واسعة لجيش من القبائل العربية يستعد للهجوم في الصحراء"
+      ],
+      "clip_id": "0935",
+      "caption": "مشهد واسع لثلاثة رجال يسيرون أمام جيش كبير في الصحراء",
+      "confidence": 0.9,
+      "reason": "The clip visually captures the concept of 'Al-Sadr' (the front/leadership) by showing individuals positioned prominently ahead of a vast army, illustrating the verse's claim to supremacy.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0935.mp4",
+      "path": "/Volumes/Alhamdulillah/Projects/Websites/درة-الشعر/public/media/1/verse_02.mp4",
+      "public_url": "/media/1/verse_02.mp4"
+    }
+  ]
+}
