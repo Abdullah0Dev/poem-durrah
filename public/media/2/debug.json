@@ -1,0 +1,71 @@
+{
+  "context": {
+    "slug": "isbir-likulli-musibatin",
+    "title": "اِصْبِرْ لِكُلِّ مُصِيبَةٍ وَتَجَلَّدِ",
+    "poet": "الإمام علي بن أبي طالب (تُنسب إليه)",
+    "era_and_region": "العصر الإسلامي، شبه الجزيرة العربية",
+    "occasion": "تُقال هذه الأبيات في سياق التعزية والمواساة عند وقوع المصائب وفقد الأحبة، لتهوين ألم الفقد من خلال التذكير بحتمية الموت وعمومية المصيبة على البشر كافة، واستحضار أعظم فجيعة في تاريخ المسلمين وهي وفاة النبي محمد ﷺ.",
+    "summary": "تبدأ القصيدة بدعوة صريحة للتحلي بالصبر والجلد أمام تقلبات الدهر، معللة ذلك بأن الخلود ليس من شأن البشر. ثم تنبه الأبيات إلى أن المصائب قدر مشترك يطال الجميع ولا يستثني أحداً، لتصل في النهاية إلى ذروة المواساة الوجدانية: وهي أن فقد النبي ﷺ هو المصاب الأعظم الذي تهون عنده كل مصيبة أخرى، فمن تذكر رحيل الرسول استطاع الصبر على رحيل غيره.",
+    "mood": "وعظي، إيماني، يتسم بالسكينة والوقار في مواجهة الموت.",
+    "recurring_imagery": [
+      "حتمية الفناء وعدم الخلود",
+      "المصائب كطريق مسلوك للجميع",
+      "المنية التي تترصد العباد",
+      "مركزية مصيبة فقد النبي ﷺ كمقياس للألم"
+    ]
+  },
+  "picks": [
+    {
+      "verse": 1,
+      "queries": [
+        "لقطة قريبة لرجل بملامح وقورة ينظر للأفق بثبات وسط عاصفة رملية",
+        "مشهد سينمائي لبقايا جدران طينية قديمة متهدمة تحت ضوء القمر الخافت",
+        "شخص بزي عربي قديم يجلس متأملاً بسكينة داخل خيمة صحراوية بسيطة",
+        "لقطة واسعة لقافلة إبل تبتعد في الأفق الصحراوي وقت الغروب"
+      ],
+      "clip_id": "1138",
+      "confidence": 0.9,
+      "reason": "The man's firm features and steady, resolute gaze perfectly embody the themes of 'Tajalud' (fortitude) and patient endurance called for in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1138.mp4"
+    },
+    {
+      "verse": 2,
+      "queries": [
+        "لقطة قريبة لرجل بملابس عربية قديمة ينظر بتأمل نحو الأفق الواسع",
+        "مشهد سينمائي لرياح تهب على رمال الصحراء توحي بتقلبات الدهر والمصائب",
+        "لقطة لغروب الشمس في صحراء قاحلة مع ظلال طويلة توحي بانتظار المنية",
+        "مشهد لأشخاص يسيرون في أزقة قرية طينية قديمة بهدوء وسكينة إيمانية"
+      ],
+      "clip_id": "1636",
+      "confidence": 0.8,
+      "reason": "The man's expression of anxiety and anticipation as he looks around at the crowd captures the verse's observation of numerous calamities and the sense of death lying in wait for all people.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1636.mp4"
+    },
+    {
+      "verse": 3,
+      "queries": [
+        "مشهد لمجموعة من الرجال يسيرون في طريق صحراوي ممتد بملامح وقورة",
+        "لقطة واسعة لقافلة قديمة تعبر رمال الصحراء تحت ضوء الفجر الخافت",
+        "أشخاص يجتمعون في بيت قديم يتبادلون التعزية والمواساة بهدوء وسكينة",
+        "مشهد لجموع من المارة في مدينة تاريخية يعبرون الشوارع الضيقة بصمت"
+      ],
+      "clip_id": "1201",
+      "confidence": 0.85,
+      "reason": "The clip of a group of men walking together in a historical desert setting visually represents the 'path' mentioned in the verse and the idea that one is not alone in the journey of life's hardships.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1201.mp4"
+    },
+    {
+      "verse": 4,
+      "queries": [
+        "مشهد سينمائي للقبة الخضراء في المدينة المنورة مع أجواء روحانية هادئة",
+        "رجل بزي تاريخي يجلس في الصحراء يرفع يديه بالدعاء بخشوع وسكينة",
+        "لقطة مقربة ليدين تلمسان صفحات كتاب قديم تحت ضوء خافت ووقور",
+        "إطلالة واسعة لأسوار مدينة قديمة في الغسق توحي بالهيبة والذكرى الحزينة"
+      ],
+      "clip_id": "1628",
+      "confidence": 0.9,
+      "reason": "The elderly man's dignified expression of sadness and being moved (ta'athur) perfectly captures the introspective and somber mood of remembering the Prophet's passing as a consolation for personal grief.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1628.mp4"
+    }
+  ]
+}

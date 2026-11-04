@@ -1,0 +1,463 @@
+{
+  "context": {
+    "slug": "ma-fi-wuqufika-saatan",
+    "title": "مَا في وُقوفِكَ ساعَةً مِن بَاسِ",
+    "poet": "أبو تمام (حبيب بن أوس الطائي)",
+    "era_and_region": "العصر العباسي، العراق",
+    "occasion": "مدح أحمد بن الخليفة المعتصم بالله (أبو العباس)، وقد نظمها الشاعر لتمجيد خصال الممدوح وطلب صِلته، وإظهار براعته في الجمع بين الفلسفة والحكمة وبين المديح التقليدي، مبرراً فيها استخدامه للتشبيهات والمقارنات البلاغية.",
+    "summary": "تبدأ القصيدة بالوقوف التقليدي على الأطلال (النسيب) بلمسة فلسفية، حيث يربط بين الطبيعة البشرية والنسيان. ثم ينتقل الشاعر ببراعة إلى غرض المديح، مصوراً آل البيت العباسي كظل الله في الأرض ومنبع الكرم. يبرز أبو تمام في هذه القصيدة بجمعه لفضائل العرب الأربعة (شجاعة عمرو، كرم حاتم، حلم أحنف، وذكاء إياس) في شخص الممدوح، مدافعاً عن أسلوبه في ضرب الأمثال، ومنتهياً بشكوى الزمان والمشيب الذي يرى فيه أثر السعي والمطالب لا مجرد تقدم العمر، مؤملاً في كرم أبي العباس.",
+    "mood": "مزيج من الحنين الوقور، والحكمة التأملية، والتبجيل الحماسي، مع نبرة اعتزاز بالذات الشاعرة وقدرتها على صياغة المعاني.",
+    "recurring_imagery": [
+      "الأطلال والديار الموحشة (الأربع الأدراس، الكناس)",
+      "ثنائية النسيان والإنسانية (الاشتقاق اللغوي)",
+      "النور والضياء (المشكاة، النبراس، القبس، الفِرِند)",
+      "الرموز التاريخية للقيم العربية (عمرو، حاتم، أحنف، إياس)",
+      "الطبيعة والرياض (نور الأقاحي، خوط البانة، الخزامى، الآس)",
+      "السقي والارتواء (كأس الفراق، رضاع الثدي، قِرى الأرض)"
+    ]
+  },
+  "picks": [
+    {
+      "verse": 1,
+      "queries": [
+        "رجل يقف وحيداً يتأمل بقايا ديار قديمة مهدمة في قلب الصحراء",
+        "لقطة واسعة لأطلال بيوت طينية مندرسة تحت أشعة الشمس الباهتة وقت الغروب",
+        "مشهد لشخص يقف بصمت أمام جدران حجرية متآكلة ومهجورة في البادية",
+        "مسافر بزي تاريخي قديم يتوقف أمام آثار مساكن مهجورة وسط الرمال"
+      ],
+      "clip_id": "1545",
+      "confidence": 0.9,
+      "reason": "The clip visually captures the act of standing contemplatively by ruins (the stone wall) in a desert setting, perfectly matching the poet's 'standing at the effaced dwellings' (الأربع الأدراس).",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1545.mp4"
+    },
+    {
+      "verse": 2,
+      "queries": [
+        "لقطة قريبة لعين رجل تلمع بالدموع في ضوء خافت حزين",
+        "مشهد واسع لرجل يقف وحيداً أمام بقايا ديار قديمة مهدمة",
+        "مسافر عربي بزي تقليدي يحدق في الأفق بملامح حزينة متأملة",
+        "لقطة قريبة لدموع تسيل على وجه رجل يعاني من ألم الفراق"
+      ],
+      "clip_id": "1644",
+      "confidence": 0.85,
+      "reason": "The clip shows a close-up of a man weeping, which directly visualizes the poet's request for his eyes to provide 'water' (tears) as a form of emotional support or comfort.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1644.mp4"
+    },
+    {
+      "verse": 3,
+      "queries": [
+        "لقطة قريبة لوجه رجل بملامح حزينة وعيون جافة في ليلة صحراوية باردة",
+        "مشهد سينمائي لضباب كثيف يغطي أطلال قرية قديمة في وقت الفجر",
+        "شخص يجلس وحيداً بجانب موقد نار خامد تكسوه البرودة والوحشة",
+        "مسافر عربي يقف أمام ديار مهجورة بملامح يكسوها الانكسار والوحدة القاسية"
+      ],
+      "clip_id": "0542",
+      "confidence": 0.85,
+      "reason": "The clip shows a man with an expression of deep sadness and emotional impact, which visually represents the 'Mushtaq' (the longing lover) whose intense feelings contrast with the cold, dry-eyed indifference described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0542.mp4"
+    },
+    {
+      "verse": 4,
+      "queries": [
+        "مشهد لبقايا بيوت طينية قديمة مهجورة وسط رمال الصحراء المتحركة",
+        "لقطة لغزال يغادر مكاناً مهجوراً بين صخور الصحراء في ضوء خافت",
+        "لقطة واسعة لأطلال ديار موحشة يسودها الصمت والهدوء الحزين وقت الغسق",
+        "رياح قوية تحرك الغبار فوق أنقاض مساكن حجرية قديمة خالية تماماً"
+      ],
+      "clip_id": "1511",
+      "confidence": 0.95,
+      "reason": "The clip shows a deserted mud village, which perfectly visualizes the 'المنازل' (dwellings) that have been emptied (أخلت) by separation.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1511.mp4"
+    },
+    {
+      "verse": 5,
+      "queries": [
+        "غصن شجرة نحيل يتمايل بليونة ورشاقة مع هبوب الريح الخفيفة",
+        "امرأة بزي عربي كلاسيكي تمشي بوقار ودلال في حديقة قصر",
+        "لقطة قريبة لامرأة يفيض وجهها نوراً بابتسامة هادئة تحت الشمس",
+        "مشهد لأطلال صحراوية قديمة مع نباتات رقيقة تتمايل وسط الرمال"
+      ],
+      "clip_id": "1134",
+      "confidence": 0.4,
+      "reason": "The verse describes a woman's beauty and graceful form; while the clip is only a close-up, it is the most relevant as it focuses on the female subject mentioned in the poetry.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1134.mp4"
+    },
+    {
+      "verse": 6,
+      "queries": [
+        "لقطة سينمائية للقمر المكتمل يسطع بضوئه الفضي فوق رمال الصحراء ليلاً",
+        "مشهد لقافلة إبل تبتعد في المدى وقت الغروب تحت شمس ذهبية",
+        "لقطة قريبة لوجه رجل يراقب رحيل القوافل بملامح يملؤها الوجد والحنين",
+        "منظر واسع للصحراء الموحشة مع تداخل ضوء الفجر بظلام الليل المتأخر"
+      ],
+      "clip_id": "1140",
+      "confidence": 0.8,
+      "reason": "The clip of a night desert scene provides the visual setting for the 'Badr' (Full Moon) imagery and the vastness associated with 'Nawa' (separation).",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1140.mp4"
+    },
+    {
+      "verse": 7,
+      "queries": [
+        "لقطة قريبة لأزهار الأقاحي البيضاء تتفتح في تربة خصبة ناعمة مبللة",
+        "امرأة بزي عربي قديم تبتسم بوقار في بستان أخضر تحت الضوء",
+        "شروق الشمس فوق حقل من الزهور البيضاء وسط طبيعة رطبة",
+        "وميض ضوء مشرق يسقط على بتلات أزهار الأقاحي في أرض ندية"
+      ],
+      "clip_id": "1292",
+      "confidence": 0.4,
+      "reason": "The verse uses a nature-based simile comparing a 'flash' or 'smile' to chamomile flowers in soft, moist soil; the oasis clip is the only one depicting the natural landscape and 'thara' (soil) central to this imagery.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1292.mp4"
+    },
+    {
+      "verse": 8,
+      "queries": [
+        "لقطة مقربة لحلي ذهبية تلمع وتتحرك مع خطوات مشي هادئة",
+        "امرأة ترتدي ثياباً تاريخية تمشي بدلال في ردهة قصر واسعة",
+        "رجل بزي عربي قديم يضع يده على صدره بملامح قلقة",
+        "انعكاس خيال امرأة تمشي على جدار منقوش في ضوء خافت"
+      ],
+      "clip_id": "0528",
+      "confidence": 0.6,
+      "reason": "The clip literally depicts feet walking in historical sandals, matching the verse's opening condition 'And when she walked,' which serves as the trigger for the sensory comparison of sounds and emotions.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0528.mp4"
+    },
+    {
+      "verse": 9,
+      "queries": [
+        "لقطة قريبة ليد ترتعش وهي تمسك كأساً معدنياً قديماً في ضوء خافت",
+        "مشهد سينمائي لوجهين بملابس تراثية يتبادلان نظرة وداع حزينة ومؤثرة",
+        "ساقي يسكب شراباً في كؤوس في مجلس عربي قديم يسوده الوجوم",
+        "لقطة واسعة لرحيل قافلة جمال في أفق الصحراء مع غروب الشمس"
+      ],
+      "clip_id": "0249",
+      "confidence": 0.9,
+      "reason": "The verse describes the emotional moment of parting between two people ('She said'), which is directly captured by the emotional farewell of the man and woman in this clip.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0249.mp4"
+    },
+    {
+      "verse": 10,
+      "queries": [
+        "مشهد مقرب ليد تلمس بقايا جدار قديم في الصحراء بتأمل",
+        "لقطة واسعة لآثار أقدام في رمال الصحراء يمحوها الريح تدريجياً",
+        "لقطة جانبية لرجل ينظر بتأمل وحزن نحو الأفق البعيد وقت الغروب",
+        "مشهد لبقايا معسكر قديم مهجور في الصحراء يلفه الغبار والنسيان"
+      ],
+      "clip_id": "0159",
+      "confidence": 0.8,
+      "reason": "The clip features a close-up of a man in deep contemplation who then appears to notice something, visually capturing the internal mental state of memory and awareness mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0159.mp4"
+    },
+    {
+      "verse": 11,
+      "queries": [
+        "مشهد مهيب للسماء والنجوم يوحي بعظمة الخالق وتدبير شؤون الكائنات",
+        "مخازن غلال قديمة عامرة بالحبوب تعكس وفرة الأرزاق والخير",
+        "حارس بزي تاريخي يراقب باهتمام قوافل المؤن المحملة بالخيرات",
+        "لقطة واسعة لمدينة تاريخية مزدهرة تعيش في طمأنينة ورغد عيش"
+      ],
+      "clip_id": "0407",
+      "confidence": 0.7,
+      "reason": "The clip's mention of 'guards' (حراس) provides a direct visual link to the specific term 'الأحراس' used in the verse, set within a contemplative historical atmosphere.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0407.mp4"
+    },
+    {
+      "verse": 12,
+      "queries": [
+        "مشهد سينمائي لهطول المطر الغزير يروي تربة الصحراء العطشى ببطء",
+        "لقطة واسعة لسحب كثيفة تمطر فوق واحة خضراء شاسعة في الوديان",
+        "حشود من الناس يقفون أمام بوابة قصر مهيب بملامح مليئة بالرجاء",
+        "لقطة لشخصيات بزي عباسي تاريخي يوزعون الطعام والخيرات على المحتاجين"
+      ],
+      "clip_id": "0323",
+      "confidence": 0.85,
+      "reason": "The clip depicts the distribution of food and drink, which directly visualizes the concept of 'قرى' (hospitality) and the bounty provided to those in need mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0323.mp4"
+    },
+    {
+      "verse": 13,
+      "queries": [
+        "لقطة سينمائية لجبل شاهق وراسخ يحيطه الضباب في جو من الهيبة",
+        "مشهد داخلي لقصر عباسي فخم تظهر فيه النقوش والزخارف الإسلامية العريقة",
+        "لقطة واسعة لمجلس ملكي يضم رجلاً بزي تاريخي مهيب يمثل الحاكم",
+        "مشهد لشروق الشمس فوق مدينة بغداد القديمة مع التركيز على القباب العالية"
+      ],
+      "clip_id": "0022",
+      "confidence": 0.8,
+      "reason": "The clip's depiction of a luxurious royal court and fine historical clothing aligns with the verse's focus on the Abbasid elite as the 'mountain of kings' and the 'shadow of God'.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0022.mp4"
+    },
+    {
+      "verse": 14,
+      "queries": [
+        "لقطة قريبة لجواهر ثمينة تتلألأ تحت ضوء ساطع ببريق فائق الجمال",
+        "لقطة واسعة لشخصية مهيبة بملابس ملكية فاخرة وسط حشد من الناس",
+        "نصل سيف عربي عريق يظهر عليه تموجات الفرند اللامعة تحت ضوء الشمس",
+        "ضوء ذهبي ساطع ينعكس على زخارف قصر عباسي يمنح شعوراً بالفخامة والسمو"
+      ],
+      "clip_id": "0005",
+      "confidence": 0.85,
+      "reason": "The clip of a majestic king with a crown adorned with gold and jewels perfectly represents the 'gemstone' and 'shining luster' metaphor used in the verse to describe noble rank.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0005.mp4"
+    },
+    {
+      "verse": 15,
+      "queries": [
+        "لقطة مقربة لرجل بزي عباسي ينظر بوقار وسكينة نحو قصر عظيم",
+        "يد خطاط تكتب بتركيز وهدوء على ورق قديم في مجلس علم",
+        "مشهد داخلي لقاعة خلافة عباسية فخمة تملؤها الهيبة والوقار والسكينة",
+        "لقطة سينمائية لبوابة قصر ضخمة تعكس ضوء الشمس الذهبي وقت الضحى"
+      ],
+      "clip_id": "0902",
+      "confidence": 0.7,
+      "reason": "The clip's depiction of focus and steadfastness matches the 'settling' of the poet's ambition and the intellectual concentration described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0902.mp4"
+    },
+    {
+      "verse": 16,
+      "queries": [
+        "لقطة قريبة لرجل بزي عباسي فاخر ملامحه تدل على الهيبة والوقار",
+        "قاعة قصر عباسي مهيبة مع أعمدة مزخرفة وإضاءة دافئة توحي بالعظمة",
+        "مشهد سينمائي لأمير شاب يرتدي حلياً وعباءة ملكية في مجلس تاريخي",
+        "تركيز على تفاصيل نسيج حريري فاخر ومجوهرات ملكية تعكس رقي المكان"
+      ],
+      "clip_id": "1505",
+      "confidence": 0.7,
+      "reason": "The clip features a dignified, serious figure in a white turban, which visually aligns with the verse's focus on a 'chosen' and 'selected' (المجتبى، المصطفى) noble character.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1505.mp4"
+    },
+    {
+      "verse": 17,
+      "queries": [
+        "لقطة سينمائية مقربة لعباءة عربية مطرزة بالذهب تتحرك بوقار وخيلاء",
+        "رجل بزي تاريخي مهيب يقف في فناء قصر واسع بملامح وقار",
+        "ضوء شمس دافئ يسقط على نقوش إسلامية معقدة في ردهة ملكية",
+        "لقطة متوسطة لشخصية قيادية بملابس فاخرة تعبر عن الهيبة والكرم"
+      ],
+      "clip_id": "0821",
+      "confidence": 0.85,
+      "reason": "The dignity and gravity (وقار) mentioned in the clip description represent the metaphorical 'garment of beauty' that comes from praise and noble deeds, rather than literal clothing.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0821.mp4"
+    },
+    {
+      "verse": 18,
+      "queries": [
+        "لقطة قريبة لغصن أخضر ينمو بقوة من تربة خصبة تحت ضوء الشمس",
+        "مشهد واسع لبستان مورق وأشجار شامخة تمثل الأصل العريق والنماء",
+        "لقطة فنية لشتلة صغيرة مغروسة بعناية في أرض ملكية واسعة ومقدسة",
+        "مشهد لشروق الشمس فوق حديقة غناء تعكس الازدهار والرفعة والنمو المبارك"
+      ],
+      "clip_id": "0027",
+      "confidence": 0.85,
+      "reason": "The clip of old Mecca and the Kaaba perfectly represents the ancestral 'soil' (Turba) and the 'Hashemite' (Hashem) lineage described as the source of the noble branch in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0027.mp4"
+    },
+    {
+      "verse": 19,
+      "queries": [
+        "مشهد مقرب لهطول الأمطار الغزيرة على غصن أخضر يانع وسط بستان",
+        "لقطة واسعة لأرض خضراء شاسعة ترتوي بمياه الأمطار تحت غيوم كثيفة",
+        "مشهد شاعري لامتزاج قطرات المطر مع التربة الطينية وظهور براعم خضراء",
+        "لقطة لحديقة قصر تاريخية مورقة مع زخات مطر تبارك الزرع والورد"
+      ],
+      "clip_id": "0518",
+      "confidence": 0.7,
+      "reason": "The clip depicts a lush green oasis (the 'manbit' or place of growth) surrounded by harsh, dry mountains, visually representing the verse's contrast between the hard earth and the life nurtured by the rain.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0518.mp4"
+    },
+    {
+      "verse": 20,
+      "queries": [
+        "مشهد مقرب لتدفق الماء بين جذور نبتة خضراء في تربة خصبة",
+        "لقطة واسعة لحديقة غناء مورقة تعكس تلاحم النبات مع الأرض الطيبة",
+        "مشهد لسكب سائل في كأس ذهبية مزخرفة تعبيراً عن الصفاء والمودة",
+        "أغصان خضراء يانعة تتمايل بانسجام فوق تربة ندية في فناء ملكي"
+      ],
+      "clip_id": "0162",
+      "confidence": 0.5,
+      "reason": "The close-up of the man listening intently captures the quality of 'Tasafi' (sincerity and purity of friendship) and the deep interpersonal bond described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0162.mp4"
+    },
+    {
+      "verse": 21,
+      "queries": [
+        "حقل واسع من زهور العرارة الصفراء والخزامى البنفسجية يتمايل مع النسيم",
+        "لقطة سينمائية لنبات الآس الأخضر الكثيف في حديقة قصر عباسي قديم",
+        "أشعة الشمس الذهبية تتسلل عبر أزهار الربيع الفواحة في مرج مخضر",
+        "لقطة مقربة لزهور برية ملونة تتفتح بجمال في واحة صحراوية غناء"
+      ],
+      "clip_id": "0745",
+      "confidence": 0.6,
+      "reason": "The clip shows a man carrying a bundle of fresh greenery in a historical setting, which visually relates to the verse's focus on the lushness and scent of plants like myrtle (Aas) and lavender (Khuzama).",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0745.mp4"
+    },
+    {
+      "verse": 22,
+      "queries": [
+        "رجل يقف بوقار فوق قمة صخرية عالية يراقب الأفق البعيد",
+        "ساحة قصر تاريخي قديم بأعمدة شاهقة وزخارف عربية فخمة",
+        "فارس بزي عباسي مذهب يمتطي خيلاً أصيلاً في مشهد مهيب",
+        "لقطة مقربة لوجه قائد بملامح حادة توحي بالقوة والسيادة"
+      ],
+      "clip_id": "0754",
+      "confidence": 0.8,
+      "reason": "The visual of a man standing elevated above historical buildings and gazing toward the horizon effectively captures the theme of reaching the pinnacle and 'furthest goal' of glory described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0754.mp4"
+    },
+    {
+      "verse": 23,
+      "queries": [
+        "فارس عربي بزي تاريخي يمتطي خيلاً أصيلاً ويبرز قوته وشجاعته",
+        "لقطة مقربة لوجه رجل بملامح هادئة ووقورة توحي بالحكمة والرزانة",
+        "مجلس ملكي فخم في العصر العباسي يعكس الهيبة والسلطان والرفعة",
+        "وليمة كبيرة ونيران مشتعلة ليلاً ترحب بالضيوف في الصحراء الواسعة"
+      ],
+      "clip_id": "1138",
+      "confidence": 0.85,
+      "reason": "The clip depicts a man with firm, steady features, which effectively symbolizes the composite of noble qualities (courage, wisdom, and intelligence) mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1138.mp4"
+    },
+    {
+      "verse": 24,
+      "queries": [
+        "مشهد لشاعر بزي عباسي يلقي قصيدته ببراعة أمام حشد من النبلاء",
+        "لقطة مقربة لفارس عربي بملابس تاريخية يحمل سيفاً يرمز للشجاعة",
+        "مشهد لنار مشتعلة ليلاً أمام خيمة في الصحراء ترمز للكرم",
+        "لقطة واسعة لمجلس ملكي مهيب يضم أميراً على عرش مزخرف"
+      ],
+      "clip_id": "0172",
+      "confidence": 0.85,
+      "reason": "The clip shows an Arab man speaking seriously to a group, which perfectly aligns with the poet's tone of addressing an audience to defend his rhetorical style and the use of parables.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0172.mp4"
+    },
+    {
+      "verse": 25,
+      "queries": [
+        "مشهد مقرب لمصباح زيتي قديم يتوهج داخل مشكاة حجرية في غرفة معتمة",
+        "لقطة واسعة لأشعة الشمس تتخلل أعمدة قصر عباسي مهيب بنور ساطع",
+        "توهج ضوئي قوي ينبعث من قنديل نحاسي في زاوية مسجد قديم",
+        "عالم يكتب بريشة في ضوء سراج خافت داخل بيت من الطراز العربي"
+      ],
+      "clip_id": "0113",
+      "confidence": 0.9,
+      "reason": "The clip features an oil lamp (Nibras) as the primary light source in a dark stone setting, directly mirroring the verse's imagery of light and the lamp.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0113.mp4"
+    },
+    {
+      "verse": 26,
+      "queries": [
+        "أمير شاب بزي عباسي تاريخي يقف بشموخ داخل قصر ملكي كبير",
+        "لقطة واسعة لبهو قصر عباسي فخم مع أعمدة مزخرفة وثريات مضيئة",
+        "شاب بملامح وقورة يرتدي عمامة مذهبة وينظر بجدية نحو الأفق البعيد",
+        "حاكم يافع يجلس على كرسي العرش الذهبي محاطاً بمظاهر الهيبة والملك"
+      ],
+      "clip_id": "0175",
+      "confidence": 0.8,
+      "reason": "The clip features a young man in a historical council (majlis) setting, which perfectly aligns with the verse addressing the 'son of the Caliph' in his 'prime of youth' (أنف الصبا).",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0175.mp4"
+    },
+    {
+      "verse": 27,
+      "queries": [
+        "مشهد مقرب ليد تشعل ناراً متوهجة من قبس في ظلام الليل",
+        "لقطة واسعة لنار مخيم تتصاعد ألسنتها في الصحراء تحت نجوم الليل",
+        "مشهد مهيب لضوء ساطع يتبدد به ظلام ليل حالك في البادية",
+        "لقطة سينمائية لمشعل ناري قديم يضيء ممر قصر عربي بوهج دافئ"
+      ],
+      "clip_id": "0112",
+      "confidence": 0.9,
+      "reason": "The clip directly depicts a man carrying a fire torch (قبس) in a historical setting, which perfectly matches the verse's imagery of fire and light in the night.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0112.mp4"
+    },
+    {
+      "verse": 28,
+      "queries": [
+        "لقطة مقربة لفارس يشد لجام خيله بقوة وسط عاصفة رملية",
+        "مشهد ليلي مهيب لسحب سوداء وبرق يضيء قمة جبل صخري",
+        "لقطة جانبية لرجل مهيب يواجه الرياح العاتية بنظرة ثابتة ووقور",
+        "قائد عربي بزي عسكري قديم يروض حصاناً جامحاً في أرض وعرة"
+      ],
+      "clip_id": "1331",
+      "confidence": 0.9,
+      "reason": "The clip features a horseman in historical attire with a black turban, which accurately reflects the Abbasid era and matches the verse's horse-related metaphors (kifl and hils) used to describe steadfastness in the face of hardships.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1331.mp4"
+    },
+    {
+      "verse": 29,
+      "queries": [
+        "لقطة قريبة ليد تعطي صرة دنانير ذهبية لشخص محتاج بامتنان",
+        "مشهد لطبيب عربي قديم يداوي رجلاً متعباً في مجلس تراثي هادئ",
+        "شخص مهموم في ثياب رثة يدخل قصراً عباسياً فخماً ومشرقاً",
+        "ملامح وجه يملؤها الارتياح بعد زوال الضيق في بيئة عربية قديمة"
+      ],
+      "clip_id": "0512",
+      "confidence": 0.9,
+      "reason": "The clip of a man comforting a sick elder directly visualizes the verse's metaphor of generosity acting as a healing doctor for one suffering from grief or lack.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0512.mp4"
+    },
+    {
+      "verse": 30,
+      "queries": [
+        "مشهد لاحتفال بهيج يملؤه الضياء والسرور في قصر عباسي عريق",
+        "لقطة قريبة لشخص يبتسم بارتياح وسط أجواء من الكرم والضيافة",
+        "مظاهر فرح واحتفال شعبي مع حشود سعيدة في ساحة واسعة",
+        "زينة أعراس عربية تقليدية مع فوانيس مضيئة في ليلة احتفالية"
+      ],
+      "clip_id": "0666",
+      "confidence": 0.9,
+      "reason": "The clip captures a joyful crowd celebrating with drums and raised hands, perfectly visualizing the 'wedding-like celebration' (عرس) metaphor in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0666.mp4"
+    },
+    {
+      "verse": 31,
+      "queries": [
+        "مشهد لشخص يبتسم بامتنان داخل قاعة عباسية فخمة تحت ضوء دافئ",
+        "لقطة سينمائية لشروق الشمس فوق مدينة قديمة توحي بتبدد الهموم والراحة",
+        "مشهد تاريخي لأمير يرحب بضيفه بحفاوة وكرم في مجلس ملكي مهيب",
+        "لقطة قريبة لوجه رجل تظهر عليه علامات الارتياح والسرور بعد ضيق"
+      ],
+      "clip_id": "0060",
+      "confidence": 0.8,
+      "reason": "The clip shows a man smiling and engaging sociably with others, which perfectly reflects the themes of joy (Surur) and friendliness (Inas) mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0060.mp4"
+    },
+    {
+      "verse": 32,
+      "queries": [
+        "لقطة قريبة لوجه رجل يكسو الشيب لحيته بملامح يملؤها التعب والوقار",
+        "مشهد لرجل يجلس في غرفة مظلمة تضيئها شمعة تظهر علامات الهم",
+        "رجل بزي قديم يلمس شعره الأبيض بحزن أمام مرآة في ضوء خافت",
+        "لقطة سينمائية لغروب الشمس فوق تلال رملية توحي بمرور العمر والزوال"
+      ],
+      "clip_id": "0266",
+      "confidence": 0.85,
+      "reason": "The clip depicts an elderly man (Mashib) expressing deep sadness and weariness by resting his head, which perfectly illustrates the poet's claim that his aging is caused by despair (Yās) rather than just old age (Kabrah).",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0266.mp4"
+    },
+    {
+      "verse": 33,
+      "queries": [
+        "لقطة قريبة لوجه رجل حكيم يغطي الشيب رأسه ولحيته بوقار",
+        "رجل بزي عباسي تقليدي يجلس في ضوء خافت ويفكر بتأمل",
+        "لقطة سينمائية لرجل يلمس شيب رأسه أمام مرآة قديمة وقت الغروب",
+        "رجل مسن ينظر للأفق بنظرة تحمل مزيجاً من الطموح والتعب"
+      ],
+      "clip_id": "0257",
+      "confidence": 0.9,
+      "reason": "The clip of an elderly man looking contemplative and sad perfectly captures the duality of the verse: his physical age represents the 'mark of years on the head,' while his expression of sadness reflects the 'effect of seeking/hardship in the heart.'",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0257.mp4"
+    },
+    {
+      "verse": 34,
+      "queries": [
+        "لقطة قريبة ليد تزرع شتلة خضراء في تربة داكنة خصبة",
+        "مشهد لعمال يضعون أساسات حجرية ضخمة لبناء تراثي متين",
+        "لقطة واسعة لقصر عباسي مهيب محاط بحدائق غناء ومزارع",
+        "شروق الشمس فوق حقول خضراء شاسعة توحي بالاستقرار والنماء"
+      ],
+      "clip_id": "0705",
+      "confidence": 0.9,
+      "reason": "The clip depicts men both digging (associated with planting/foundation) and building in a grove, perfectly matching the dual imagery of 'غَرَستُ' (planted) and 'بَنَيتُ' (built) in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0705.mp4"
+    }
+  ]
+}

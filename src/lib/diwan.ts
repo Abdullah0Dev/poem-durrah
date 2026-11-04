@@ -1,3 +1,4 @@
+import { resolveMediaType } from "@/lib/media";
 import type { Diwan, Verse } from "@/types/poem";
 
 export const ENTRIES_PER_PAGE = 8;
@@ -40,8 +41,8 @@ export function buildPages(diwan: Diwan): RenderPage[] {
   return pages;
 }
 
-/** Every image a page will need (video posters included). */
+/** Every image a page will need (videos load on their own, see VideoPlayer). */
 export function pageImageUrls(page: RenderPage | undefined): string[] {
   if (!page || page.kind !== "verses") return [];
-  return page.verses.flatMap((v) => (v.media.type === "video" || /\.(mp4|webm|mov|m4v|ogv)(\?.*)?$/i.test(v.media.src) ? (v.media.poster ? [v.media.poster] : []) : [v.media.src]));
+  return page.verses.filter((v) => resolveMediaType(v.media) === "image").map((v) => v.media.src);
 }

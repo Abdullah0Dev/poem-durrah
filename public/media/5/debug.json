@@ -1,0 +1,345 @@
+{
+  "context": {
+    "slug": "araqun-ala-araqin",
+    "title": "أَرَقٌ عَلى أَرَقٍ وَمِثلِيَ يَأرَقُ",
+    "poet": "أبو الطيب المتنبي",
+    "era_and_region": "العصر العباسي، الكوفة - العراق",
+    "occasion": "نظم المتنبي هذه القصيدة في مدح محمد بن أوس بن معن بن الرضا المحلبي، وهي من القصائد التي جمع فيها بين الوجد الفلسفي والحكمة العميقة قبل الانتقال إلى غرض المديح، وقد ألقاها في بدايات مسيرته الشعرية.",
+    "summary": "تبدأ القصيدة بمقدمة غزلية وجدانية يصف فيها الشاعر ألم الفراق والأرق، ثم ينتقل ببراعة إلى تأملات فلسفية حول حتمية الموت وفناء البشر مهما بلغت قوتهم (كالأكاسرة والجبابرة)، معرجاً على التحسر على ضياع الشباب، لينتهي بالمدح الجزيل لمحمد بن أوس واصفاً إياه بالكرم المطلق الذي لا يجارى وبأنه خير أهل زمانه.",
+    "mood": "يمتزج في القصيدة الحزن الوجداني بالتأمل الفلسفي المهيب، ثم يتحول إلى نبرة التبجيل والفخر في قسم المديح.",
+    "recurring_imagery": [
+      "الأرق والسهاد ودموع الشوق (عبرة تترقرق، عين مسهدة)",
+      "الفناء والزوال (غراب البين، اللحد الضيق، صمت القبور)",
+      "التقابل بين العظمة والاندثار (الأكاسرة الجبابرة مقابل اللحد الضيق)",
+      "الماء والسحاب كرمز للكرم (سحاب أكفهم، أمطر عليّ سحاب جودك)",
+      "الضياء والشموس (الشموس التي تشرق من ديار الممدوح)"
+    ]
+  },
+  "picks": [
+    {
+      "verse": 1,
+      "queries": [
+        "لقطة قريبة لعين متعبة يلمع فيها دمع يترقرق في ضوء خافت",
+        "لقطة سينمائية لرجل يجلس وحيداً في خيمته ليلاً والشموع تذوب",
+        "مشهد لشخص يتقلب في فراشه ليلاً ملامحه تظهر الأرق والحزن الشديد",
+        "شاعر عباسي في مجلسه ليلاً ينظر للسماء بأسى تحت ضوء القمر"
+      ],
+      "clip_id": "0604",
+      "confidence": 0.7,
+      "reason": "The clip of a man sitting alone in the dark at night visually represents the 'Araq' (insomnia) and solitary suffering mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0604.mp4"
+    },
+    {
+      "verse": 2,
+      "queries": [
+        "لقطة قريبة لعين إنسان ساهرة تعكس ضوء الشموع في غرفة مظلمة",
+        "مشهد سينمائي لرجل بملابس عربية قديمة يضع يده على صدره بأسى",
+        "سراج قديم يرتجف لهبه في غرفة خافتة توحي بالوحدة والسهر",
+        "رجل يجلس وحيداً في سكون الليل ينظر للنجوم بملامح حزينة ومرهقة"
+      ],
+      "clip_id": "0159",
+      "confidence": 0.6,
+      "reason": "The close-up of a man contemplating in a closed, dimly lit space reflects the internal suffering, sleeplessness (عين مسهدة), and quiet intensity described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0159.mp4"
+    },
+    {
+      "verse": 3,
+      "queries": [
+        "وميض برق خاطف يضيء سماء الصحراء المظلمة في ليلة غائمة",
+        "طائر وحيد يغرد فوق غصن شجرة يابسة وقت الشروق",
+        "رجل بزي عباسي يقف في الخلاء ينظر للسماء بوجد وحنين",
+        "لقطة واسعة لآفاق الصحراء الممتدة مع سحب داكنة توحي بالوحدة"
+      ],
+      "clip_id": "0902",
+      "confidence": 0.6,
+      "reason": "The close-up of the man staring intently at the horizon captures the emotional state of longing (shauq) and the act of looking out triggered by the signs mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0902.mp4"
+    },
+    {
+      "verse": 4,
+      "queries": [
+        "لقطة قريبة لنيران متأججة تلتهم حطب الغضى في قلب الصحراء ليلاً",
+        "مسافر وحيد يجلس بجانب نار مشتعلة في الصحراء تحت النجوم",
+        "مشهد لجمر متوهج يتصاعد منه الدخان يعكس شدة الألم والاحتراق",
+        "رجل بزي عباسي يحدق في لهيب النار بملامح يملؤها الوجد"
+      ],
+      "clip_id": "0724",
+      "confidence": 0.85,
+      "reason": "The verse conveys the internal agony and intensity of the 'fire of love' which surpasses any physical fire; clip 0724 captures this emotional depth through a man looking deeply affected and sorrowful, reflecting the personal 'experience' (جربت) described.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0724.mp4"
+    },
+    {
+      "verse": 5,
+      "queries": [
+        "لقطة مقربة لرجل بملابس عربية يضع يده على صدره بملامح حزينة",
+        "مشهد ليلي لرجل يجلس وحيداً يفكر بجانب نار مشتعلة في الصحراء",
+        "رجل بزي تاريخي يتأمل النجوم بذهول وحيرة في ليلة صافية صامتة",
+        "لقطة واسعة لشاعر يسير وحيداً في أزقة مدينة قديمة وقت الغسق"
+      ],
+      "clip_id": "0542",
+      "confidence": 0.7,
+      "reason": "The close-up of the man's sad and affected face captures the personal realization and the 'taste' of love's pain described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0542.mp4"
+    },
+    {
+      "verse": 6,
+      "queries": [
+        "مشهد لرجل بملابس تاريخية ينظر بتفهم ومشاركة لوجع المحبين الغرباء",
+        "لقطة قريبة لوجه رجل تظهر عليه علامات الندم والإدراك بعد المعاناة",
+        "رجل يجلس وحيداً ليلاً تحت ضوء قنديل يعكس ملامح الحزن والانكسار",
+        "لقطة واسعة لشاعر في مجلس تراثي ينظر للأفق بملامح يملؤها التفهم"
+      ],
+      "clip_id": "1628",
+      "confidence": 0.85,
+      "reason": "The clip of the elderly man showing deep emotion and sadness perfectly captures the internal realization and regret expressed in the verse as the poet acknowledges his past error.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1628.mp4"
+    },
+    {
+      "verse": 7,
+      "queries": [
+        "لقطة مقربة لغراب أسود يقف فوق أطلال بيت طيني قديم",
+        "مشهد واسع لمنازل حجرية مهجورة في الصحراء وقت الغروب",
+        "لقطة سينمائية لقرية خالية يسودها الصمت والوحشة تحت سماء كئيبة",
+        "بقايا جدران متهدمة لمدينة أثرية قديمة تعبر عن فناء البشر"
+      ],
+      "clip_id": "1511",
+      "confidence": 0.95,
+      "reason": "The imagery of a deserted mud village perfectly mirrors the 'dwellings' where the 'crow of separation' croaks, capturing the themes of transience and abandonment.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1511.mp4"
+    },
+    {
+      "verse": 8,
+      "queries": [
+        "مشهد سينمائي لشخص ينظر بحزن إلى بقايا مخيم مهجور في الصحراء",
+        "لقطة واسعة لآثار مدينة قديمة متهدمة وسط الصحراء عند غروب الشمس",
+        "قافلة من الإبل تبتعد في أفق الصحراء الشاسع مع رياح تثير الرمال",
+        "مشهد لبقايا مجلس عربي قديم فارغ تغطيه الرمال والرياح تعصف به"
+      ],
+      "clip_id": "0512",
+      "confidence": 0.75,
+      "reason": "The clip illustrates both the human gathering (the man with the elder) and the subsequent sorrow and loneliness (the man alone and sad), which perfectly captures the verse's themes of weeping and the inevitable dispersal of those the world brings together.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0512.mp4"
+    },
+    {
+      "verse": 9,
+      "queries": [
+        "لقطة سينمائية لعملات ذهبية قديمة وكنوز مدفونة تحت الرمال في صمت",
+        "بقايا أعمدة ضخمة لقصر فارسي قديم متهدم يلفه ضباب الصباح",
+        "غبار ورياح تهب فوق تماثيل حجرية مكسورة لملوك من عصور غابرة",
+        "لقطة قريبة لتاج ملكي ذهبي ملقى وسط التراب في مكان مهجور"
+      ],
+      "clip_id": "0005",
+      "confidence": 0.75,
+      "reason": "The clip shows a majestic king, which directly represents the 'Akasira' (emperors) and 'Jabahira' (tyrants) mentioned in the verse, highlighting the grandeur that the poet notes has now vanished.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0005.mp4"
+    },
+    {
+      "verse": 10,
+      "queries": [
+        "مشهد سينمائي لجيوش ضخمة من الفرسان تغطي أفق الصحراء الواسع",
+        "لقطة قريبة لقبر حجري قديم وضيف وسط رمال الصحراء الصامتة",
+        "بقايا أطلال وقصور تاريخية مهجورة تحت سماء غائمة توحي بالزوال",
+        "منظر جوي واسع لمقبرة أثرية قديمة تبرز صغر حجم القبور"
+      ],
+      "clip_id": "1460",
+      "confidence": 0.8,
+      "reason": "The clip visually captures the vastness of a huge army marching in the desert, perfectly illustrating the first half of the verse where space feels cramped by the army's size.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1460.mp4"
+    },
+    {
+      "verse": 11,
+      "queries": [
+        "مشهد مقرب لشواهد قبور قديمة متآكلة يسودها سكون ورهبة",
+        "لقطة واسعة لبقايا أعمدة قصور أثرية متهدمة في أرض قاحلة",
+        "تمثال أثري لوجه بشري صامت وسط غبار الصحراء المتطاير",
+        "غروب الشمس فوق مقابر تاريخية مهجورة توحي بانقطاع الأثر"
+      ],
+      "clip_id": "1581",
+      "confidence": 0.9,
+      "reason": "The statues in a dark, candlelit temple visually represent the 'mute' (خُرس) nature of those being addressed who cannot respond despite speech being lawful to them.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1581.mp4"
+    },
+    {
+      "verse": 12,
+      "queries": [
+        "لقطة مقربة لساعة رملية ينفد رملها داخل غرفة خافتة الإضاءة",
+        "بقايا قصر قديم متهدم يظهر زوال العظمة والمجد الغابر",
+        "لقطة واسعة لرجل بزي تاريخي يقف وحيداً في مقبرة قديمة",
+        "كنوز ومجوهرات ملقاة في التراب تحت أشعة شمس باهتة"
+      ],
+      "clip_id": "0109",
+      "confidence": 0.85,
+      "reason": "The slow approach toward the dark, mysterious cave opening visually captures the inevitability of 'Death is coming' (الموت آتٍ) and aligns with the poem's recurring imagery of the narrow grave.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0109.mp4"
+    },
+    {
+      "verse": 13,
+      "queries": [
+        "مشهد يجمع بين شيخ وقور ذي شيب وشاب ممتلئ بالحيوية",
+        "لقطة سينمائية لحديقة غناء تعبر عن جمال الحياة وطيب العيش",
+        "لقطة قريبة لوجه رجل حكيم تظهر عليه ملامح الهيبة والوقار",
+        "خيول عربية تجري بانطلاق وسرعة في وادٍ فسيح وقت الفجر"
+      ],
+      "clip_id": "0442",
+      "confidence": 0.9,
+      "reason": "The clip of a wise old man with a white beard perfectly embodies the verse's description of old age (الشيب) being more dignified (أوقر).",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0442.mp4"
+    },
+    {
+      "verse": 14,
+      "queries": [
+        "لقطة قريبة لشاب عربي ذو شعر ولحية سوداء ملامحه يملؤها الشجن",
+        "مشهد سينمائي لشاب يجلس وحيداً عند ضفة نهر بتفكير عميق حزين",
+        "وجه شاب مشرق بالحيوية تظهر عليه علامات التأمل والحزن الصامت",
+        "رجل بزي تاريخي يتأمل ملامح وجهه في مرآة نحاسية قديمة بأسى"
+      ],
+      "clip_id": "0197",
+      "confidence": 0.8,
+      "reason": "The clip features a young man (matching 'الشباب') with dark hair and an emotional expression of concern, visually representing the poet's lamentation over his youth while still in his prime.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0197.mp4"
+    },
+    {
+      "verse": 15,
+      "queries": [
+        "لقطة مقربة لعين رجل تفيض بالدموع الغزيرة في سكون الليل",
+        "شاب يرتدي ملابس تاريخية ينظر للأفق بأسى كأنه يودع شبابه",
+        "رجل يغطي وجهه بيديه وهو يغص بدموعه من شدة التأثر",
+        "مشهد لشاعر في ثياب قديمة يجلس وحيداً بملامح يملؤها الانكسار"
+      ],
+      "clip_id": "1644",
+      "confidence": 0.85,
+      "reason": "The clip shows a man crying with intense emotion, which directly mirrors the poet's description of almost choking on his own tears due to the fear of separation.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1644.mp4"
+    },
+    {
+      "verse": 16,
+      "queries": [
+        "لقطة سينمائية لقافلة من الإبل تسير عبر كثبان رملية ذهبية",
+        "مشهد لخيام عربية مهيبة في قلب الصحراء مع حركة للمسافرين",
+        "فرسان بملابس عربية تراثية يمتطون الخيول العربية الأصيلة بوقار وفخر",
+        "لقطة واسعة لمسافرين على الإبل يقتربون من ديار فخمة قديمة"
+      ],
+      "clip_id": "0867",
+      "confidence": 0.85,
+      "reason": "The verse specifically mentions 'Al-Ainuq' (camels) being driven in travel, and this clip features a large caravan with camels crossing the desert.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0867.mp4"
+    },
+    {
+      "verse": 17,
+      "queries": [
+        "مشهد لبيوت عربية تراثية يشع من نوافذها ضوء شمس قوي",
+        "لقطة واسعة لمخيم عربي عريق وقت الشروق مع إضاءة مبهرة",
+        "رجل بزي تاريخي ينظر بدهشة نحو منازل تفيض بالأنوار والجمال",
+        "وهج شمسي ساطع ينبثق من بين جدران القصور العربية القديمة"
+      ],
+      "clip_id": "0878",
+      "confidence": 0.8,
+      "reason": "The clip visually depicts 'Diyar' (Bedouin camp/dwellings) and the bright presence of the sun, matching the verse's imagery of light appearing from these dwellings.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0878.mp4"
+    },
+    {
+      "verse": 18,
+      "queries": [
+        "سحب داكنة تمطر بغزارة فوق منحدرات جبلية صخرية قاحلة",
+        "لقطة جوية واسعة لصحراء عربية تحت غيوم كثيفة محملة بالمطر",
+        "جريان مياه الأمطار بين الصخور الجافة في وادي صحراوي قديم",
+        "قافلة تمر بأرض صخرية تحت سماء غائمة توحي بالخير والوفرة"
+      ],
+      "clip_id": "0564",
+      "confidence": 0.7,
+      "reason": "The clip visually represents the 'clouds' (سحاب) over the 'land' (أرض) described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0564.mp4"
+    },
+    {
+      "verse": 19,
+      "queries": [
+        "دخان بخور كثيف يتصاعد ببطء في قاعة عربية فخمة وواسعة",
+        "رجل يرتدي ثياباً تراثية يستنشق الهواء بعمق بملامح تنم عن الرضا",
+        "لقطة قريبة لزهور عطرية تتفتح وتتمايل مع نسيم رقيق في بستان",
+        "حشود من الناس في سوق تاريخي قديم يتحدثون بإعجاب وتقدير"
+      ],
+      "clip_id": "1548",
+      "confidence": 0.7,
+      "reason": "The clip's depiction of a joyful public welcome and communal warmth effectively translates the metaphorical 'fragrance of sweet praise' into a tangible social scene of honor and reputation.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1548.mp4"
+    },
+    {
+      "verse": 20,
+      "queries": [
+        "لقطة قريبة لدخان بخور يتصاعد من مبخرة أثرية في مجلس مهيب",
+        "زهور برية نادرة تتفتح في أرض قفر بعيدة عن أعين الناس",
+        "لقطة سينمائية لانتشار ذرات العطر في الهواء داخل ديوان ملكي فخم",
+        "مشهد تاريخي لخيام قبيلة مهيبة وسط الصحراء يفوح منها الوقار"
+      ],
+      "clip_id": "0580",
+      "confidence": 0.6,
+      "reason": "The verse uses a metaphor of exclusive musky scent to praise a noble group; the 'Arabic Majlis' setting in this clip matches the formal and dignified atmosphere where such high-level praise would be delivered during the Abbasid era.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0580.mp4"
+    },
+    {
+      "verse": 21,
+      "queries": [
+        "رجل بزي تاريخي يسير في طريق صحراوي طويل يمتد للأفق",
+        "لقطة لشخصية عربية مهيبة تبرز بتفرد وسط حشد من الناس",
+        "مشهد لسراب يلمع في الصحراء يرمز للأهداف التي لا تدرك",
+        "بوابة قصر عباسي ضخمة تعكس عظمة ومكانة فريدة لصاحبها"
+      ],
+      "clip_id": "0951",
+      "confidence": 0.8,
+      "reason": "The scene of a man standing before a gathering of knights and people visually represents the status and uniqueness of the praised figure mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0951.mp4"
+    },
+    {
+      "verse": 22,
+      "queries": [
+        "لقطة قريبة لوجه رجل مهيب بملامح نبيلة توحي بالتفرد والتميز",
+        "مشهد سينمائي لشروق الشمس من وراء الجبال يغمر الأرض بنور فريد",
+        "لقطة سفلية مهيبة لفارس عربي يقف وحيداً فوق قمة جبل عالية",
+        "رجل بزي تاريخي فاخر يمشي بوقار في ردهة قصر عباسي عظيم"
+      ],
+      "clip_id": "1138",
+      "confidence": 0.8,
+      "reason": "The close-up of a man with firm and steady features captures the sense of a singular, exceptional individual that matches the verse's claim of peerless creation.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1138.mp4"
+    },
+    {
+      "verse": 23,
+      "queries": [
+        "لقطة مقربة ليد رجل نبيل تمنح عطايا جزيلة لشخص آخر بوقار",
+        "مشهد لشخصين في مجلس عربي قديم يتبادلان التحية والهدايا بامتنان",
+        "تفاصيل دقيقة لصناديق الذهب والحرير في قصر حاكم كريم جداً",
+        "تعابير وجه حاكم عربي يظهر التواضع الشديد أثناء منح الهبات"
+      ],
+      "clip_id": "0581",
+      "confidence": 0.8,
+      "reason": "The clip depicts a historical Majlis with an interaction between a man and a patron-like figure reclining, perfectly capturing the setting of a poet addressing a generous benefactor as described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0581.mp4"
+    },
+    {
+      "verse": 24,
+      "queries": [
+        "سحب ركامية داكنة تمطر بغزارة فوق تلال الرمل في ضوء الغسق",
+        "لقطة مقربة لوجه أمير عربي قديم تظهر عليه علامات الجود والرحمة",
+        "فيضان مياه الأمطار العذبة وهي تروي أرضاً عطشى في وادي قديم",
+        "مشهد سينمائي لمطر غزير ينهمر على بوابات قصر عربي مهيب وزخارفه"
+      ],
+      "clip_id": "1623",
+      "confidence": 0.7,
+      "reason": "The clip shows an Arab man looking with profound emotion, which visually captures the poet's plea for a look of mercy (وانظر إلي برحمة) described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1623.mp4"
+    },
+    {
+      "verse": 25,
+      "queries": [
+        "لقطة قريبة لوجه رجل عربي مهيب يبتسم بوقار وثقة عالية",
+        "مشهد لديوان عباسي فاخر يعج بالحياة والضيوف تحت ضوء الشموع",
+        "لقطة واسعة لزعيم كريم يوزع العطايا على الناس في ساحة القصر",
+        "فارس بزي تاريخي يمتطي خيلاً أصيلاً يرمز للشموخ والبقاء والقوة"
+      ],
+      "clip_id": "0172",
+      "confidence": 0.85,
+      "reason": "The clip portrays an Arab man speaking seriously in a public setting, which visually aligns with the poet's forceful and public rebuttal of the claim that nobility has died.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0172.mp4"
+    }
+  ]
+}

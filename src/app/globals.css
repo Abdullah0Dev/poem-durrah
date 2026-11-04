@@ -32,7 +32,9 @@ body {
     ),
     linear-gradient(#2b180b, #150a04);
 }
-
+*::-webkit-scrollbar {
+    display: none;
+}
 /* ---------- 3D helpers (prefixed for Safari) ---------- */
 .bk-3d {
   transform-style: preserve-3d;

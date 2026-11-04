@@ -1,0 +1,474 @@
+{
+  "context": {
+    "slug": "ukhfi-hawan-laki-fi-al-dulou",
+    "title": "أُخفِي هَوًى لَكِ فِي الضُّلُوعِ وَأُظْهِرُ",
+    "poet": "البحتري (أبو عبادة الوليد بن عبيد)",
+    "era_and_region": "العصر العباسي، سامراء - العراق",
+    "occasion": "تهنئة الخليفة المتوكل بالله (جعفر بن المعتصم) بمناسبة عيد الفطر، ووصف موكبه المهيب أثناء خروجه إلى المصلى، وإظهار هيبة الخلافة وشرعيتها.",
+    "summary": "تعد هذه القصيدة من روائع البحتري في المديح، حيث استهلها بالنسيب (الغزل) في محبوبته الشهيرة «علوة»، واصفاً لوعة الحب وخيانة المحبوب. ثم ينتقل ببراعة إلى الغرض الرئيس وهو مدح الخليفة المتوكل، فيصف موكب العيد وصفاً ملحمياً يجمع بين القوة العسكرية (الجيش والخيل) والروحانية الدينية (صلاة العيد والخطبة). يبرز الشاعر صورة الخليفة كقائد ديني يلبس بردة النبي ﷺ ويخطب بخشوع، مما يضفي عليه هيبةً تجعل الجماد (المنبر) يكاد يسعى إليه.",
+    "mood": "يمتزج في القصيدة الشعور بالوجد والرقة في البداية، مع الفخامة والهيبة والجلال في وصف الخلافة والموكب العسكري والديني.",
+    "recurring_imagery": [
+      "النور والضياء (وجه الخليفة كالشمس، انجلاء الدجى، نور الهدى)",
+      "القوة والحركة (الجبال التي تسير، صهيل الخيل، الغبار الثائر/العجاج)",
+      "الرموز النبوية (بردة النبي ﷺ، فصل الخطاب، الهدى)",
+      "التضاد (الإخفاء والإظهار، الخيانة والوفاء، العسر واليسر، المنع والعطاء)"
+    ]
+  },
+  "picks": [
+    {
+      "verse": 1,
+      "queries": [
+        "رجل بملابس عربية قديمة يضع يده على صدره بتعبير حزين",
+        "لقطة قريبة لوجه يعبر عن الكتمان والوجد في إضاءة خافتة",
+        "شخص وحيد يسير في فناء قصر تاريخي واسع تحت ضوء القمر",
+        "مشهد سينمائي لرجل يجلس متأملاً بملامح يملؤها الشجن والكمد"
+      ],
+      "clip_id": "0724",
+      "confidence": 0.85,
+      "reason": "The clip's description of a man showing deep sadness and being strongly affected aligns perfectly with the term 'Kamad' (intense grief) and the theme of visible suffering mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0724.mp4"
+    },
+    {
+      "verse": 2,
+      "queries": [
+        "لقطة سينمائية لشخص يرحل بعيداً في أفق صحراوي واسع وقت الغروب",
+        "مشهد حزين لامرأة بزي عربي قديم تبتعد وتترك خلفها أثراً",
+        "لقطة واسعة لفناء قصر عباسي قديم يسوده السكون والظلال الحزينة",
+        "رجل وحيد ينظر من خلف نافذة خشبية قديمة إلى طريق خالٍ موحش"
+      ],
+      "clip_id": "1051",
+      "confidence": 0.85,
+      "reason": "This clip depicts a man and a woman in a historical setting expressing sorrow and tension, which perfectly captures the verse's themes of betrayal and reproach between lovers.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1051.mp4"
+    },
+    {
+      "verse": 3,
+      "queries": [
+        "مشهد لشخص يمد يده نحو الأفق بحسرة في صحراء مقفرة",
+        "لقطة واسعة لرجل وحيد يسير ببطء في أرض خالية شاسعة",
+        "لقطة قريبة لوجه رجل تظهر عليه ملامح الخيبة والحزن العميق",
+        "بقايا أطلال قديمة في الصحراء وقت الغروب توحي بالهجر والوحدة"
+      ],
+      "clip_id": "0676",
+      "confidence": 0.85,
+      "reason": "The gesture of extending hands toward someone on a camel perfectly visualizes the act of 'seeking' (طلبت) affection that is not reciprocated or attained, set within the classical desert context of the poem.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0676.mp4"
+    },
+    {
+      "verse": 4,
+      "queries": [
+        "رجل بملابس عربية تراثية يجلس وحيداً بملامح يكسوها الحزن والانتظار",
+        "لقطة لامرأة بزي عباسي قديم تمشي مبتعدة في ممر حجري",
+        "مشهد سينمائي لغروب الشمس فوق أطلال مدينة سامراء القديمة الهادئة",
+        "وجه رجل يفكر بعمق وتظهر على عينيه علامات الخذلان والأسى"
+      ],
+      "clip_id": "0542",
+      "confidence": 0.85,
+      "reason": "The visual of a man looking sad and affected captures the poet's personal heartache and rhetorical questioning regarding his beloved 'Alwah's debt and injustice.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0542.mp4"
+    },
+    {
+      "verse": 5,
+      "queries": [
+        "لقطة قريبة لغصن شجر أخضر لدن يتمايل برقة في واحة مشمسة",
+        "مشهد سينمائي لغزال في البرية ينظر بعيون سوداء واسعة وجميلة",
+        "امرأة بزي عربي تراثي تمشي بخطوات رشيقة وقوام ممشوق في حديقة",
+        "لقطة واسعة لحديقة قصر تاريخي تبرز الطبيعة الغناء والهدوء وقت الضحى"
+      ],
+      "clip_id": "0226",
+      "confidence": 0.7,
+      "reason": "The clip features a noble woman in white clothes, which matches the opening word 'Bayda' (white/fair) and visualizes the graceful stature described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0226.mp4"
+    },
+    {
+      "verse": 6,
+      "queries": [
+        "امرأة بزي تراثي تمشي بخطوات رقيقة تفيض بالدلال في ممر تاريخي",
+        "لقطة واسعة لامرأة حسناء تسير بين ظلال الأشجار في حديقة غناء",
+        "امرأة أنيقة تتمايل في مشيتها بزهو ودلال داخل رواق قصر قديم",
+        "فتاة بملابس حريرية فاخرة تسير بخيلاء في ساحة مشمسة تعكس ريعان الشباب"
+      ],
+      "clip_id": "1107",
+      "confidence": 0.85,
+      "reason": "The clip visually captures the essence of graceful movement (تميس) and coquetry (دلال) mentioned in the verse through the woman's dance and swaying in a historical setting, which mirrors the 'ruling of hearts'.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1107.mp4"
+    },
+    {
+      "verse": 7,
+      "queries": [
+        "لقطة لامرأة تمشي بتمايل ودلال يظهر قوامها الرشيق والمستقيم",
+        "لقطة واسعة لفتاة شابة تتمايل بخفة وسط ساحة قصر عباسي",
+        "مشهد يصور ليونة الحركة والتمايل الرقيق لامرأة في رداء تقليدي",
+        "لقطة تبرز القوام الممشوق والقد المتزن لامرأة تسير بهدوء ووقار"
+      ],
+      "clip_id": "1109",
+      "confidence": 0.7,
+      "reason": "The clip of a traditional folk dance visually represents the 'swaying' (tamīlu) and the graceful stature (qadd) described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1109.mp4"
+    },
+    {
+      "verse": 8,
+      "queries": [
+        "لقطة لرجل بزي عباسي قديم ينظر بتأمل ويبتعد عن مجلس لهو",
+        "ممر في قصر عباسي مع أشخاص يتحدثون في الظلال بخفية وريبة",
+        "لقطة قريبة لوجه رجل رزين بملامح جادة يتجاهل ضجيج المارة حوله",
+        "مشهد لشخص يمشي بثبات في ساحة واسعة نحو ضوء الشمس الساطع"
+      ],
+      "clip_id": "1635",
+      "confidence": 0.85,
+      "reason": "The clip portrays a man in a thoughtful and reflective state amidst a crowd, which visually represents the poet's internal maturity (leaving idleness) while being surrounded by the society (slanderers) who misjudge him.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1635.mp4"
+    },
+    {
+      "verse": 9,
+      "queries": [
+        "لقطة قريبة تركز على سحر وجمال عينين واسعتين بنظرة مليئة بالشوق",
+        "مشهد سينمائي لورود حمراء زاهية تتفتح في حديقة قصر عباسي قديم",
+        "سيدة بملابس تراثية تبرز ملامح وجهها بجمال كلاسيكي ونضارة وجنتين حمراوين",
+        "لقطة دافئة لشاعر يتأمل في صمت بملابس تاريخية وسط أجواء من الوجد"
+      ],
+      "clip_id": "1134",
+      "confidence": 0.6,
+      "reason": "The close-up on the woman's face and eyes captures the focus on the 'magic of the eyes' described in the romantic opening of the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1134.mp4"
+    },
+    {
+      "verse": 10,
+      "queries": [
+        "لقطة مهيبة لخليفة عباسي يجلس على عرش مرصع في قاعة ملكية",
+        "مشهد لشروق الشمس فوق قصر ملكي يبرز هيبة السلطة والتمكين",
+        "لقطة واسعة لمدينة سامراء التاريخية مع المآذن والقصور العباسية العظيمة",
+        "تفاصيل معمارية إسلامية مزخرفة تعكس فخامة وازدهار الدولة العباسية القديمة"
+      ],
+      "clip_id": "0013",
+      "confidence": 0.7,
+      "reason": "The clip portrays a king on his throne in a formal court, visually representing the concepts of 'empowerment' (Tamkin) and 'kingship' (Mulk) mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0013.mp4"
+    },
+    {
+      "verse": 11,
+      "queries": [
+        "لقطة سينمائية لضوء ذهبي ينسدل من السماء على قصر عباسي مهيب",
+        "مشهد واسع لمدينة أثرية قديمة في وقت الغروب تعكس عظمة الخلافة",
+        "يد تمسك بقطعة قماش فاخرة مطرزة بالذهب في أجواء من الهيبة",
+        "لقطة قريبة لحاكم بزي عباسي تقليدي يقف بوقار وهيبة في مجلسه"
+      ],
+      "clip_id": "0204",
+      "confidence": 0.85,
+      "reason": "The clip of a man standing with dignity in a historical assembly perfectly visualizes the 'chosen' status and divine favor (اصطفاء) bestowed upon the leader mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0204.mp4"
+    },
+    {
+      "verse": 12,
+      "queries": [
+        "مشهد تاريخي لخليفة بزي عباسي مهيب يلوح بيده بحكمة ووقار",
+        "لقطة واسعة لقصور سامراء العباسية القديمة تحت ضوء الشمس المشرقة",
+        "حشود من الناس في ساحة تاريخية يرفعون أيديهم بالدعاء والتهنئة",
+        "لقطة قريبة ليد تمسك بردة مطرزة فوق عرش يوحي بالهيبة والاستمرار"
+      ],
+      "clip_id": "0316",
+      "confidence": 0.85,
+      "reason": "The clip of cheering crowds in a historical setting perfectly captures the 'thanks' (وتشكر) mentioned in the verse and the festive atmosphere of the Eid procession described in the poem's context.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0316.mp4"
+    },
+    {
+      "verse": 13,
+      "queries": [
+        "لقطة قريبة ليد كريمة توزع العطايا والخيرات على الناس في سوق قديم",
+        "مشهد تاريخي يجمع بين أناس بملابس فاخرة وآخرين بملابس بسيطة بانسجام",
+        "لقطة واسعة لساحة قصر عباسي تعج بالناس في أجواء من الاحتفال والرخاء",
+        "وجوه مستبشرة من عامة الشعب تعبر عن الفرح والرضا في يوم العيد"
+      ],
+      "clip_id": "0034",
+      "confidence": 0.5,
+      "reason": "The scene of an old market with trade and industry visually captures the themes of 'Al-Barriya' (all people) and 'Al-Ghina' (wealth/prosperity) mentioned in the verse as a result of the Caliph's generosity.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0034.mp4"
+    },
+    {
+      "verse": 14,
+      "queries": [
+        "لقطة مقربة لتمر وماء يعبر عن كسر الصيام في أجواء روحانية هادئة",
+        "مشهد واسع لمصلى العيد الخارجي مع حشود المصلين في الصباح الباكر",
+        "لقطة لرجل بزي عربي تقليدي يظهر عليه الخشوع والوقار في العبادة",
+        "شروق الشمس فوق مآذن وقباب مدينة إسلامية قديمة في يوم العيد"
+      ],
+      "clip_id": "1623",
+      "confidence": 0.85,
+      "reason": "The clip depicts a dignified man in traditional white attire looking pious amidst a crowd, perfectly matching the verse's praise for the Caliph's devotion and his public role during the Eid celebration.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1623.mp4"
+    },
+    {
+      "verse": 15,
+      "queries": [
+        "مشهد لشروق الشمس الساطع فوق مآذن قديمة في صباح يوم العيد",
+        "حشود من الناس بملابس زاهية يتبادلون التهاني في ساحة واسعة",
+        "لقطة سينمائية لوجه مبتسم بوقار يعبر عن الفرح والرضا بالعيد",
+        "منظر علوي لمدينة تاريخية في ضوء النهار الساطع خلال احتفال"
+      ],
+      "clip_id": "0659",
+      "confidence": 0.9,
+      "reason": "The clip depicts a grand historical festive procession, which perfectly captures the 'majestic procession' of the Caliph mentioned in the poem's context and the 'celebrated and glorious day' of Eid described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0659.mp4"
+    },
+    {
+      "verse": 16,
+      "queries": [
+        "مشهد لجيش ضخم يزحف برايات تاريخية في مدينة صحراوية مهيبة",
+        "لقطة واسعة لموكب عسكري مهيب يمر أمام مئذنة مسجد قديم",
+        "فرسان بزي تاريخي يحملون السيوف والرماح في استعراض للقوة والمنعة",
+        "حشود من الجنود المدججين بالسلاح يحرسون ساحة صلاة العيد الكبيرة"
+      ],
+      "clip_id": "1525",
+      "confidence": 0.9,
+      "reason": "The clip depicts a majestic procession of Muslim knights, which perfectly captures the 'glory of the kingdom' and the religious 'protection' described in the verse's context of the Caliph's Eid parade.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1525.mp4"
+    },
+    {
+      "verse": 17,
+      "queries": [
+        "لقطة جوية واسعة لجيش عظيم يزحف كأنه جبال ضخمة تتحرك",
+        "حشود هائلة من الجنود والخيالة في موكب مهيب بمدينة تاريخية",
+        "غبار كثيف يرتفع خلف زحف عسكري مهيب يملأ ساحة واسعة",
+        "مشهد سينمائي لصفوف متراصة من الرماح والجنود تمتد لنهاية الأفق"
+      ],
+      "clip_id": "1460",
+      "confidence": 0.9,
+      "reason": "The clip shows a massive army crawling across a vast desert, which perfectly captures the poet's metaphor of a force so large it looks like moving mountains.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1460.mp4"
+    },
+    {
+      "verse": 18,
+      "queries": [
+        "لقطة قريبة لخيول عربية تصهل وسط فرسان يحملون سيوفاً ورماحاً لامعة",
+        "مشهد بانورامي لجيش تاريخي مهيب بفرسانه وأسلحته تحت ضوء الشمس الساطع",
+        "فرسان بزي عباسي قديم يرفعون الرماح والسيوف البراقة في موكب مهيب",
+        "لقطة سينمائية لغبار يثور حول حوافر الخيل مع انعكاس الضوء على السيوف"
+      ],
+      "clip_id": "0994",
+      "confidence": 0.85,
+      "reason": "The clip explicitly mentions both spears (الأسنة) and swords (البيض) carried by knights, perfectly matching the specific weaponry and martial energy described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0994.mp4"
+    },
+    {
+      "verse": 19,
+      "queries": [
+        "مشهد قريب لسنابك خيل تضرب الأرض بقوة مع تصاعد غبار كثيف",
+        "لقطة واسعة لجيش ضخم يسير في الصحراء يثير غباراً يغطي الأفق",
+        "جو عاصف بالغبار فوق موكب عسكري قديم يبرز هيبة الجيش",
+        "الأرض تهتز تحت أقدام آلاف الجنود والخيول في مشهد ملحمي"
+      ],
+      "clip_id": "1258",
+      "confidence": 0.9,
+      "reason": "The clip shows a large group of warriors moving through the desert, creating a heavy presence that matches the 'weight' mentioned in the first half of the verse, while the dust explicitly captures the 'murky and dusty' atmosphere described in the second half.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1258.mp4"
+    },
+    {
+      "verse": 20,
+      "queries": [
+        "قرص الشمس يتوهج بقوة في كبد السماء وسط غبار كثيف وداكن",
+        "غبار كثيف يرتفع من تحت سنابك الخيل يغطي ضوء الشمس تماماً",
+        "ضوء الشمس الساطع يختفي تدريجياً خلف سحابة غبار داكنة في الصحراء",
+        "لقطة سينمائية لجيش عظيم يزحف في الصحراء مسبباً عجاجاً يظلم الأفق"
+      ],
+      "clip_id": "0997",
+      "confidence": 0.9,
+      "reason": "The clip features knights and horses in the desert amidst thick dust, perfectly illustrating the 'العجاج الأكدر' (murky dust) described as obscuring the sun.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0997.mp4"
+    },
+    {
+      "verse": 21,
+      "queries": [
+        "مشهد لغبار كثيف ينجلي ببطء ليظهر ضوء شمس ساطع خلفه",
+        "لقطة سينمائية لزعيم مهيب يظهر من بين حشود الخيول والغبار",
+        "منظر واسع للصحراء وقت الضحى مع تلاشي الدخان والظلال الداكنة",
+        "لقطة قريبة لوجه رجل بملامح وقار يشع منه النور والضياء"
+      ],
+      "clip_id": "1138",
+      "confidence": 0.6,
+      "reason": "The verse focuses on the majestic appearance of the Caliph's face as a source of light that dispels darkness, and this close-up of a man with a firm, steady gaze best captures that sense of authority and presence.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1138.mp4"
+    },
+    {
+      "verse": 22,
+      "queries": [
+        "لقطة قريبة لأيدي أشخاص من الحشد تشير بإعجاب نحو شخصية مهيبة",
+        "حشود غفيرة في ساحة تاريخية تترقب بذهول مرور موكب عظيم",
+        "وجوه مأخوذة بالهيبة والجمال تنظر بتمعن وتركيز نحو بؤرة الضوء",
+        "مشهد تاريخي لجموع الناس يصطفون لمشاهدة جلالة الملك في موكبه"
+      ],
+      "clip_id": "1604",
+      "confidence": 0.85,
+      "reason": "The clip's description of a crowd looking up in 'awe and anticipation' (ذهول وترقب) perfectly captures the poetic meaning of 'افتَنَّ' (being dazzled/fascinated) and the literal visual of 'eyes looking' (عين تنظر) towards the Caliph.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1604.mp4"
+    },
+    {
+      "verse": 23,
+      "queries": [
+        "لقطة لشخصية مهيبة على خيل وسط حشد من الناس ينظرون إليه بإعجاب",
+        "مشهد واسع لجمهور غفير في مدينة تاريخية يترقبون بلهفة مرور القائد",
+        "لقطة قريبة لوجوه مبتسمة بملابس عربية تقليدية تنظر بذهول وتقدير تجاه الموكب",
+        "لقطة سينمائية لفارس مهيب يرتدي بردة تاريخية يسطع عليه ضوء الشمس الذهبي"
+      ],
+      "clip_id": "1572",
+      "confidence": 0.8,
+      "reason": "The verse focuses on the people's perspective and their experience of seeing the Caliph; this clip of a historical crowd's faces captures the collective act of 'finding' or witnessing the sight mentioned in the poem.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1572.mp4"
+    },
+    {
+      "verse": 24,
+      "queries": [
+        "لقطة مهيبة لشخصية قيادية بزي عباسي تبرز من بين صفوف الجنود",
+        "حشود غفيرة في ساحة واسعة يرفعون أيديهم بالتكبير والتهليل بحماس",
+        "مشهد جانبي لموكب ملكي تاريخي يسير وسط حشود المصلين في العيد",
+        "إضاءة سينمائية تسلط على وجه وقور يشع نورا وسط أجواء احتفالية"
+      ],
+      "clip_id": "1569",
+      "confidence": 0.85,
+      "reason": "The clip visually represents the Caliph's majestic procession (Mawkib) emerging through ranks of people in a historical setting, perfectly matching the verse's description of his appearance causing the crowd to shout in praise.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1569.mp4"
+    },
+    {
+      "verse": 25,
+      "queries": [
+        "لقطة لشخصية مهيبة بزي تاريخي أبيض تسير بوقار نحو ساحة المسجد",
+        "شعاع من الضوء الساطع يغمر وجه رجل بملامح هادئة ومباركة",
+        "مشهد واسع لجموع المصلين في ساحة خارجية عتيقة تحت أشعة الشمس",
+        "وصول موكب ملكي فخم إلى بوابة مصلى كبير في مدينة تراثية"
+      ],
+      "clip_id": "1453",
+      "confidence": 0.75,
+      "reason": "The clip depicts an individual in historical Islamic attire walking through a traditional courtyard, which visually translates the verse's description of the Caliph arriving at the prayer ground (Musalla) in his regal/religious clothing.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1453.mp4"
+    },
+    {
+      "verse": 26,
+      "queries": [
+        "لقطة قريبة لخطوات هادئة لشخص بملابس تراثية يمشي بوقار وسكينة",
+        "لقطة واسعة لشخصية مهيبة تمشي بتواضع وسط حشود في ساحة تاريخية",
+        "لقطة متوسطة لرجل بزي تاريخي يحني رأسه بخشوع وسكينة في ممر قديم",
+        "مشهد سينمائي لشخص ببردة عربية يسير بوقار وهيبة نحو المسجد الكبير"
+      ],
+      "clip_id": "1450",
+      "confidence": 0.85,
+      "reason": "The clip shows a person with a religious appearance walking in a historical setting, which aligns with the verse's description of a humble and devout walk.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1450.mp4"
+    },
+    {
+      "verse": 27,
+      "queries": [
+        "لقطة قريبة لمنبر خشبي قديم مزخرف داخل مسجد أثري مهيب",
+        "مشهد واسع لساحة صلاة العيد مع جموع المصلين في العصر العباسي",
+        "لقطة مهيبة لخليفة يرتدي بردة عربية يقف بوقار أمام حشود غفيرة",
+        "لقطة تركز على المنبر الخشبي وسط ساحة واسعة توحي بالهيبة والجلال"
+      ],
+      "clip_id": "1671",
+      "confidence": 0.7,
+      "reason": "The verse mentions the 'Minbar' (pulpit) in a religious context, and this clip provides the appropriate setting of a historic mosque filled with worshipers, matching the poem's occasion of the Eid prayer.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1671.mp4"
+    },
+    {
+      "verse": 28,
+      "queries": [
+        "لقطة قريبة لرجل بزي تاريخي يخطب ببراعة فوق منبر خشبي قديم",
+        "مشهد واسع لمصلين في ساحة جامع قديم يستمعون بإنصات لخطبة العيد",
+        "لقطة قريبة لوجه وقور يشع منه الهيبة أثناء إلقاء خطاب مؤثر",
+        "مشهد تاريخي لزعيم يلقي كلمة بليغة وسط تفاعل الناس وإيماءاتهم بالقبول"
+      ],
+      "clip_id": "0172",
+      "confidence": 0.8,
+      "reason": "The clip depicts an Arab man delivering a serious address to a group, effectively illustrating the Caliph delivering the authoritative and decisive sermon described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0172.mp4"
+    },
+    {
+      "verse": 29,
+      "queries": [
+        "لقطة قريبة لخطيب بزي عباسي يرتدي بردة مطرزة ويقف فوق المنبر",
+        "مشهد واسع لمصلى تاريخي كبير يمتلئ بالمصلين الخاشعين في صلاة العيد",
+        "لقطة سينمائية لخليفة مهيب يخطب في الناس بوشاحه التاريخي في سامراء",
+        "لقطة متوسطة لخطيب بملامح وقورة يلقي موعظة دينية وإيماءات تدل على النصح"
+      ],
+      "clip_id": "0440",
+      "confidence": 0.9,
+      "reason": "The clip depicts a figure delivering a speech with authority and importance, perfectly matching the verse's description of the Caliph standing to preach and admonish while wearing the Prophet's mantle.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0440.mp4"
+    },
+    {
+      "verse": 30,
+      "queries": [
+        "لقطة قريبة لشخصية مهيبة تخطب في حشد من الناس بخشوع",
+        "مشهد واسع لمصلى قديم يضم جموعاً من المصلين المنصتين للخطبة",
+        "وجوه مصلين يظهر عليها التأثر والراحة والسكينة أثناء الاستماع",
+        "لقطة سينمائية لخطيب فوق منبر خشبي قديم ينشر السكينة والهدوء"
+      ],
+      "clip_id": "1645",
+      "confidence": 0.9,
+      "reason": "The clip depicts a group listening with reverence and humility in a historical setting, perfectly capturing the spiritual healing and impact of the sermons mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1645.mp4"
+    },
+    {
+      "verse": 31,
+      "queries": [
+        "لقطة قريبة لخطيب بزي عباسي وقور يتحدث بطلاقة وتأثير أمام الناس",
+        "وجوه مصلين في ساحة تاريخية تتبدل ملامحهم من الحيرة إلى الطمأنينة",
+        "أشعة الشمس تخترق سحب الغبار لتضيء وجوه الناس في تجمع مهيب",
+        "مشهد لجموع غفيرة تجلس في سكينة تامة تستمع لخطبة دينية مؤثرة"
+      ],
+      "clip_id": "0698",
+      "confidence": 0.85,
+      "reason": "The clip of men in historical Islamic attire listening with intense focus perfectly illustrates the transition from confusion to clarity and guidance described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0698.mp4"
+    },
+    {
+      "verse": 32,
+      "queries": [
+        "مشهد لجموع غفيرة من المصلين يصطفون في صلاة جماعية مهيبة",
+        "لقطة واسعة لمسجد أثري ضخم يكتظ بالمصلين في يوم عيد مشمس",
+        "لقطة قريبة لمصلين في حالة خشوع تام وسكينة أثناء الصلاة",
+        "رجل بزي عربي قديم يؤم صفوفاً طويلة من الناس بوقار"
+      ],
+      "clip_id": "1680",
+      "confidence": 0.9,
+      "reason": "The clip shows vast crowds of worshippers in straight rows, perfectly illustrating the scale and discipline of the congregational prayer led by the Caliph as described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1680.mp4"
+    },
+    {
+      "verse": 33,
+      "queries": [
+        "مشهد لمصلين يرفعون أيديهم بالدعاء بخشوع في ساحة مسجد تاريخي كبير",
+        "لقطة واسعة لمصلى العيد القديم تمتلئ بضوء الصباح والسكينة والوقار",
+        "رجل بزي عربي أصيل ينظر للسماء بملامح يملؤها الرضا والراحة النفسية",
+        "ضوء الشمس الذهبي ينهمر من السماء فوق مئذنة سامراء الملوية الشهيرة"
+      ],
+      "clip_id": "1672",
+      "confidence": 0.8,
+      "reason": "The aerial shot of thousands of worshippers during the Eid prayer captures both the majestic scale of the occasion described in the poem and the concept of God's expansive mercy and forgiveness granted to many ('whom He wills').",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1672.mp4"
+    },
+    {
+      "verse": 34,
+      "queries": [
+        "لقطة مقربة لوجوه ناس ينظرون بإعجاب وتوقير لشخصية مهيبة",
+        "مشهد واسع لساحة تاريخية مكتظة بالناس يظهرون الولاء والمحبة",
+        "لقطة سينمائية لشخصية مهيبة يغمرها النور وسط حشد محب",
+        "مشهد لزعيم تاريخي يرتدي بردة فاخرة يحظى بتبجيل المحيطين به"
+      ],
+      "clip_id": "0727",
+      "confidence": 0.9,
+      "reason": "The clip's depiction of men looking up with deep emotion and awe perfectly visualizes the spiritual 'Mahabba' (love/devotion) and the effect of the 'Fadl' (divine grace) mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0727.mp4"
+    },
+    {
+      "verse": 35,
+      "queries": [
+        "لقطة لحشود غفيرة تنظر بذهول وإعجاب نحو موكب ملكي فخم ومهيب",
+        "مشهد من زاوية منخفضة يظهر قائداً بملابس تاريخية يبدو عظيماً وجليلاً",
+        "لقطة قريبة لوجوه رجال تفيض بالاحترام والولاء والتقدير العميق للقائد",
+        "لقطة واسعة لساحة قصر قديم تعكس فخامة الملك وهيبة الحاكم"
+      ],
+      "clip_id": "1601",
+      "confidence": 0.85,
+      "reason": "The clip shows a large crowd looking up with focus and anticipation, visually representing the verse's theme of the leader 'filling the eyes' of the people and being the center of their awe.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1601.mp4"
+    }
+  ]
+}

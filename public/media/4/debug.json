@@ -1,0 +1,164 @@
+{
+  "context": {
+    "slug": "afat-al-diyaru-mahalluha",
+    "title": "عَفَتِ الدِّيارُ مَحَلُّها فَمُقامُها",
+    "poet": "لَبيد بن ربيعة العامري",
+    "era_and_region": "العصر الجاهلي (مخضرم) - نجد، الجزيرة العربية",
+    "occasion": "تُعد هذه الأبيات مطلع معلقة لبيد بن ربيعة، وهي إحدى المعلقات السبع أو العشر. نظمها الشاعر جرياً على عادة الشعراء الجاهليين في الوقوف على الأطلال (الديار الموحشة)، حيث يستعيد ذكريات الأحبة الذين ارتحلوا، واصفاً تغير معالم المكان وتحوله إلى مرتع للحيوانات البرية بعد أن كان عامراً بالأنيس.",
+    "summary": "يصف الشاعر في هذه الأبيات اندثار معالم الديار في منطقة 'منى' و'الريان' وما حولهما، حيث محت الأمطار والسيول والرياح آثار السكنى. يشبه الشاعر ما تبقى من رسوم الديار بالكتابة المجددة في الكتب القديمة أو بالوشم على أيدي النساء. ثم ينتقل لوصف الطبيعة التي استعادت سيطرتها على المكان، فصارت الظباء والنعام ترعى في أرجائها بأمان. وينتهي بالتعبير عن عبثية سؤال هذه الأطلال الصماء التي لا تملك جواباً ولا كلاماً.",
+    "mood": "حزين، حنين استرجاعي (Nostalgic)، تأملي في فلسفة الزمن والزوال.",
+    "recurring_imagery": [
+      "الأطلال والديار الدارسة",
+      "الكتابة والوحي والرقوم (تشبيه أثر الديار بالخط)",
+      "الأمطار والسيول والغيوم الرعدية",
+      "الحيوانات الوحشية (الظباء، النعام، المها) وأطفالها",
+      "الوشم ونقوش اليد (النؤور والواشمة)",
+      "الصمت والخرس (الصم الخوالد)"
+    ]
+  },
+  "picks": [
+    {
+      "verse": 1,
+      "queries": [
+        "لقطة قريبة لبقايا أطلال حجرية قديمة في قلب الصحراء القاحلة",
+        "مشهد بانورامي لوادٍ صحراوي مهجور تحيط به الجبال الصخرية القديمة",
+        "رياح خفيفة تثير الغبار فوق بقايا ديار مهجورة تحت أشعة الشمس",
+        "آثار واضحة لمستوطنة بدوية قديمة اختفت معالمها وبقيت حجارتها صامتة"
+      ],
+      "clip_id": "1511",
+      "confidence": 0.95,
+      "reason": "The clip shows a deserted mud village in a desert setting, perfectly illustrating the 'Afat al-diyar' (faded dwellings) and the desolation described in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1511.mp4"
+    },
+    {
+      "verse": 2,
+      "queries": [
+        "لقطة جوية لمجاري السيول الجافة في وادي صحراوي بين الجبال",
+        "لقطة قريبة لنقوش أثرية باهتة على صخور صماء في الصحراء",
+        "مشهد لبقايا أطلال حجرية قديمة غطتها الرمال في عمق الصحراء",
+        "لقطة واسعة لتضاريس جبلية قفر تحت ضوء الشمس الباهت"
+      ],
+      "clip_id": "0518",
+      "confidence": 0.7,
+      "reason": "The panoramic view of an old mountain village reflects the 'Rayyan' mountain setting and the 'Diyar' (dwellings) whose 'Rasm' (traces) the poet describes as worn and exposed.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0518.mp4"
+    },
+    {
+      "verse": 3,
+      "queries": [
+        "مشهد مقرب لبقايا أطلال حجرية قديمة غطتها رمال الصحراء المتحركة",
+        "لقطة واسعة لغروب الشمس فوق صحراء قاحلة توحي بمرور السنين",
+        "مكان مهجور وموحش في قلب البادية يظهر آثار سكن قديم",
+        "مشهد زمني يظهر تعاقب الظل والضوء على ديار قديمة مندرسة"
+      ],
+      "clip_id": "0337",
+      "confidence": 0.5,
+      "reason": "The vast, empty desert landscape captures the sense of desolation and the passage of time in a place where people no longer reside, reflecting the 'Deman' (traces) and 'Hijaj' (years) mentioned.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0337.mp4"
+    },
+    {
+      "verse": 4,
+      "queries": [
+        "مشهد سينمائي لهطول أمطار غزيرة على بقايا أطلال صحراوية قديمة مهجورة",
+        "سحب ركامية داكنة محملة بالمطر والبرق تغطي أفق الصحراء الشاسع",
+        "لقطة قريبة لحبات المطر وهي تروي التربة الجافة في وادي صحراوي",
+        "هطول مطر مستمر وهادئ على تلال نجد تحت سماء رمادية ملبدة"
+      ],
+      "clip_id": "0813",
+      "confidence": 0.4,
+      "reason": "The clip features a person looking toward the sky in a desert environment, which reflects the verse's imagery of observing the stars (Marabi' al-Nujum) and the thundering clouds that provide rain.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0813.mp4"
+    },
+    {
+      "verse": 5,
+      "queries": [
+        "سحب داكنة كثيفة تمطر بغزارة فوق تلال صحراوية وقت الفجر",
+        "لقطة واسعة لبرق يضيء السماء المظلمة فوق رمال الصحراء المبللة",
+        "مشهد كئيب لغروب الشمس خلف غيوم رعدية محملة بالمطر في البادية",
+        "بقايا أطلال حجرية قديمة في الصحراء يغسلها المطر الغزير المتواصل"
+      ],
+      "clip_id": "1140",
+      "confidence": 0.6,
+      "reason": "The verse describes dark, persistent clouds at night and evening (Sariya and Mudjin), and this clip's dark night sky over a vast desert captures that gloomy, atmospheric setting.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1140.mp4"
+    },
+    {
+      "verse": 6,
+      "queries": [
+        "لقطة قريبة لنباتات برية خضراء تزهر وسط بقايا أطلال صحراوية قديمة",
+        "قطيع من الظباء والنعام يتجول بحرية في مساحات صحراوية شاسعة",
+        "مشهد لصغير غزال يتبع أمه وسط شجيرات برية في وادٍ مهجور",
+        "نباتات برية طويلة وأعشاب خضراء تغطي ركام أحجار قديمة في الصحراء"
+      ],
+      "clip_id": "0648",
+      "confidence": 0.2,
+      "reason": "The clip shows a desert landscape which provides the setting for the verse, though it lacks the specific wild plants (arugula) and wildlife (gazelles and ostriches) mentioned.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0648.mp4"
+    },
+    {
+      "verse": 7,
+      "queries": [
+        "لقطة قريبة لمها عربية ترعى مع صغارها في قلب الصحراء",
+        "لقطة واسعة لقطيع من الظباء ينتشر بهدوء في سهول صحراوية",
+        "أنثى مها عربية تقف بسكون بجانب صغيرها وسط رمال ذهبية",
+        "مشهد لحيوانات برية تتجول بسلام بين أطلال وبقايا ديار قديمة"
+      ],
+      "clip_id": "0335",
+      "confidence": 0.4,
+      "reason": "The clip captures the 'Al-Fada' (vast open space) mentioned in the verse, which serves as the setting for the wild animals and their young described by the poet.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0335.mp4"
+    },
+    {
+      "verse": 8,
+      "queries": [
+        "لقطة قريبة لسيول مائية تجري فوق بقايا أحجار قديمة في الصحراء",
+        "يد تكتب بقلم ريشة على مخطوطة قديمة تعيد إحياء حروفها الباهتة",
+        "لقطة واسعة لوادٍ صحراوي بعد المطر تظهر فيه آثار الديار المندثرة",
+        "لقطة فنية لخطوط ونقوش في الرمال تشبه الكتابة القديمة في الصحراء"
+      ],
+      "clip_id": "0484",
+      "confidence": 0.9,
+      "reason": "The clip shows an ancient Arabic inscription, which perfectly visualizes the verse's metaphor comparing ruins to old scripts (زبر) refreshed by pens.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0484.mp4"
+    },
+    {
+      "verse": 9,
+      "queries": [
+        "لقطة مكبرة ليد امرأة تظهر عليها رسوم وشم عربية تقليدية داكنة",
+        "امرأة بدوية بوشم على يديها تتأمل الأفق في صحراء واسعة صامتة",
+        "لقطة سينمائية لخطوط وشم قديمة تتداخل مع تجاعيد يد امرأة مسنة",
+        "ضوء الشمس يبرز تفاصيل نقوش دقيقة على صخور صحراوية تشبه الوشم"
+      ],
+      "clip_id": "0034",
+      "confidence": 0.4,
+      "reason": "The verse compares the campsite traces to the meticulous manual work of a tattooist, making a clip showing traditional manual industry and craftsmanship the most relevant thematic match.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0034.mp4"
+    },
+    {
+      "verse": 10,
+      "queries": [
+        "مشهد لرجل بدوي يقف أمام أطلال حجرية قديمة في الصحراء",
+        "لقطة واسعة لبقايا جدران حجرية متهدمة وسط رمال الصحراء الواسعة",
+        "لقطة قريبة لصخور قديمة متآكلة تعبر عن الصمت والجمود في الصحراء",
+        "رجل ينظر بحزن إلى رسوم الديار الدارسة في منطقة صحرائية موحشة"
+      ],
+      "clip_id": "0547",
+      "confidence": 0.85,
+      "reason": "The clip shows a man in historical attire talking or reflecting in the desert, which perfectly matches the poet's act of standing and questioning (أسألُها) the silent, unresponsive ruins.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0547.mp4"
+    },
+    {
+      "verse": 11,
+      "queries": [
+        "لقطة قريبة لبقايا خندق قديم حول مسكن مهجور تتوسطه أعشاب صحراوية",
+        "لقطة واسعة لأفق صحراوي موحش يظهر خلو المكان تماماً من سكانه",
+        "مشهد سينمائي لأطلال دارسة تغطيها الرمال تعكس وحشة الفراق والرحيل المر",
+        "بقايا أوتاد وحواجز ترابية قديمة لخيمة مهجورة وسط رمال الصحراء القاحلة"
+      ],
+      "clip_id": "1270",
+      "confidence": 0.7,
+      "reason": "The verse describes a deserted campsite where only traces like the 'Noy' (tent trench) remain; the clip's 'tent ruins' (أنقاض خيام) provides a specific visual for these abandoned desert dwellings.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1270.mp4"
+    }
+  ]
+}

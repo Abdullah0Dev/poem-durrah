@@ -19,6 +19,7 @@ interface PageProps {
   side: "left" | "right";
   page?: RenderPage;
   active: boolean;
+  near: boolean;
   nav: NavMode;
 }
 
@@ -71,7 +72,7 @@ function Colophon() {
   );
 }
 
-export const Page = memo(function Page({ title, number, side, page, active, nav }: PageProps) {
+export const Page = memo(function Page({ title, number, side, page, active, nav ,near}: PageProps) {
   return (
     <div
       dir="ltr"
@@ -109,7 +110,7 @@ export const Page = memo(function Page({ title, number, side, page, active, nav 
           <div className="relative z-10 mt-[3cqw] grid min-h-0 flex-1 grid-rows-3 gap-[2.2cqw] px-[1cqw]">
             {[0, 1, 2].map((i) => {
               const v = page?.verses[i];
-              if (v) return <VerseCard key={v.id} verse={v} active={active} />;
+              if (v) return <VerseCard key={v.id} verse={v} active={active} near={near} />;
               return <div key={i} className="min-h-0">{page?.poemEnd && i === page.verses.length ? <Colophon /> : null}</div>;
             })}
           </div>

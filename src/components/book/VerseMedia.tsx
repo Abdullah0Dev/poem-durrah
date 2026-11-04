@@ -3,12 +3,12 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { cn } from "@/lib/cn";
 import { imageAttrs } from "@/lib/mediaImage";
-import { resolveMediaType } from "@/lib/media";
+import { posterFor, resolveMediaType } from "@/lib/media";
 import { isPreloaded } from "@/lib/preload";
 import type { VerseMedia as VerseMediaData } from "@/types/poem";
 import { VideoPlayer } from "./VideoPlayer";
 
-interface Props { media: VerseMediaData; label: string; active: boolean }
+interface Props { media: VerseMediaData; label: string; active: boolean; near: boolean }
 
 function ImageMedia({ media, label, active }: Props) {
   const attrs = useMemo(() => imageAttrs(media.src), [media.src]);
@@ -51,7 +51,7 @@ export function VerseMedia(props: Props) {
   return (
     <div className="absolute inset-0 overflow-hidden rounded-[1.2cqw]">
       {resolveMediaType(media) === "video" ? (
-        <VideoPlayer src={media.src} poster={media.poster} label={label} active={active} />
+        <VideoPlayer src={media.src} poster={posterFor(media)} label={label} active={active} near={props.near} />
       ) : (
         <ImageMedia {...props} />
       )}

@@ -1,0 +1,267 @@
+{
+  "context": {
+    "slug": "ma-balu-aynika-la-tanamu",
+    "title": "ما بالُ عَينِكَ لا تَنامُ كَأَنَّما",
+    "poet": "حسان بن ثابت",
+    "era_and_region": "عصر صدر الإسلام، المدينة المنورة",
+    "occasion": "رثاء النبي محمد صلى الله عليه وسلم بعد وفاته، والتعبير عن عظيم الفقد والحزن الذي حل بالمسلمين والأنصار خاصة.",
+    "summary": "تعد هذه القصيدة من أصدق مراثي حسان بن ثابت في النبي صلى الله عليه وسلم، حيث يبدؤها بوصف حالة الأرق والسهاد التي أصابته لهول الفاجعة. ينتقل الشاعر للتعبير عن تمنيه الموت فداءً للنبي، ويستعرض مناقب الرسول ونسبه الشريف ونوره الذي أضاء العالم، ثم يصف حال الأنصار بعد رحيله وضيق الدنيا عليهم، مختتماً بالصلاة على النبي والدعاء بمرافقته في الجنة، مع الإشارة إلى شماتة الأعداء من اليهود والنصارى في ذلك الوقت.",
+    "mood": "حزين، مفجع، مليء باللوعة والتحسر، وممزوج بروحانية عالية وإيمان بالبعث والجزاء.",
+    "recurring_imagery": [
+      "العين والأرق (السهاد، كحل الأرمد، البكاء)",
+      "النور والهداية (نوراً أضاء، المهتدي، المبارك)",
+      "الموت والقبر (ثاوياً، بقيع الغرقد، الضريح، الملحد)",
+      "السواد والظلمة (سوداً وجوههم، كحل الإثمد، سم الأسود)",
+      "الطهارة والنسب (الطيب، كريم المحتد، بكر آمنة، محصنة)"
+    ]
+  },
+  "picks": [
+    {
+      "verse": 1,
+      "queries": [
+        "لقطة قريبة لعين متعبة ساهرة في الليل تعاني من الأرق",
+        "مشهد ليلي لمدينة قديمة ببيوت طينية تحت ضوء القمر الخافت",
+        "رجل يجلس وحيداً في الظلام يمسح عينيه بتأثر وحزن شديد",
+        "إطلالة واسعة لقرية صحراوية هادئة يسودها السكون والظلام في الليل"
+      ],
+      "clip_id": "0604",
+      "confidence": 0.85,
+      "reason": "The clip of a man sitting alone in the darkness of night directly captures the setting and mood of the verse's central question about the poet's inability to sleep.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0604.mp4"
+    },
+    {
+      "verse": 2,
+      "queries": [
+        "لقطة قريبة لحصى الصحراء تحت ضوء خافت تعبر عن الفقد",
+        "منظر لقبر قديم بسيط وسط رمال الصحراء في وقت الغروب",
+        "رجل بزي تاريخي يجلس بحزن عميق بجانب طريق رملي مهجور",
+        "مشهد لمدينة طينية قديمة يغشاها السكون والوحشة في جو غائم"
+      ],
+      "clip_id": "0266",
+      "confidence": 0.85,
+      "reason": "The clip shows an elderly man in historical attire expressing profound sadness and grief, which perfectly matches the emotional weight of 'جزعاً' (anguish) felt by the poet over the Prophet's death.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0266.mp4"
+    },
+    {
+      "verse": 3,
+      "queries": [
+        "لقطة قريبة ليد تلمس تراب قبر قديم في أجواء يملؤها الحزن",
+        "مشهد واسع لمقبرة البقيع التاريخية في المدينة المنورة وقت الغروب",
+        "رجل ينظر بحسرة وألم إلى مكان الدفن في بيئة صحراوية قديمة",
+        "لقطة سينمائية لتراب يتطاير ببطء فوق أرض المقبرة في ضوء خافت"
+      ],
+      "clip_id": "1250",
+      "confidence": 0.6,
+      "reason": "The imagery of a person lying in the dust and movement reflects the verse's themes of being covered by soil (التُرب) and the poet's wish to have been buried (غُيِّبتُ) in the earth.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1250.mp4"
+    },
+    {
+      "verse": 4,
+      "queries": [
+        "مشهد تاريخي لبيوت الطين في المدينة المنورة تحت سماء باهتة",
+        "لقطة سينمائية تعبر عن الحزن والسكينة في أزقة مدينة قديمة",
+        "شخص ينظر بأسى نحو الأفق من خلف نافذة خشبية قديمة",
+        "شعاع نور خافت يخترق الظلمة في مكان مقدس قديم هادئ"
+      ],
+      "clip_id": "0257",
+      "confidence": 0.85,
+      "reason": "The clip features an elderly man in traditional attire who appears sad and contemplative, which aligns with the persona of Hassan ibn Thabit mourning the Prophet's death and the deep grief expressed in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0257.mp4"
+    },
+    {
+      "verse": 5,
+      "queries": [
+        "رجل بملابس عربية قديمة يمشي شارداً وتائهاً في طرقات مدينة طينية",
+        "لقطة سينمائية لبيوت قديمة يسودها الصمت والحزن الشديد وقت الغروب",
+        "رجل يغطي وجهه بيديه من شدة الحسرة والأسى في بيئة تراثية",
+        "مشهد تاريخي لأشخاص يجلسون في انكسار وصدمة وسط ساحة رملية قديمة"
+      ],
+      "clip_id": "1072",
+      "confidence": 0.9,
+      "reason": "The clip of a man screaming in the desert with his hands on his face perfectly captures the intense existential despair and profound grief expressed in 'Ya lahfa nafsi' and the wish to have never been born.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1072.mp4"
+    },
+    {
+      "verse": 6,
+      "queries": [
+        "لقطة قريبة لأفعى سوداء تزحف بين الصخور في بيئة صحراوية موحشة",
+        "رجل بملابس تاريخية يمشي وحيداً بملامح منكسرة في أزقة مدينة قديمة",
+        "لقطة واسعة لبيوت طينية قديمة يسودها الصمت والوحشة في وقت الفجر",
+        "مشهد سينمائي لرجل ينهار من الحزن واليأس في زاوية بيت قديم"
+      ],
+      "clip_id": "0102",
+      "confidence": 0.8,
+      "reason": "The clip visually depicts a man in historical Arabian dress walking in an old city square, perfectly capturing the verse's theme of staying in Medina after the Prophet's passing.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0102.mp4"
+    },
+    {
+      "verse": 7,
+      "queries": [
+        "لقطة قريبة لرجل ينظر إلى السماء بأسى في وقت الغروب",
+        "مشهد لمدينة قديمة في ضوء الشفق توحي بهدوء ما قبل العاصفة",
+        "شخص وحيد يجلس فوق رمال الصحراء يترقب الأفق بملامح منكسرة",
+        "سحب كثيفة تحجب الشمس فوق بيوت طينية قديمة في لحظة مهيبة"
+      ],
+      "clip_id": "0110",
+      "confidence": 0.85,
+      "reason": "The clip of a man walking alone in the desert at night perfectly captures the 'evening' (rawha) timing mentioned in the verse and the somber, solitary mood of awaiting God's decree.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0110.mp4"
+    },
+    {
+      "verse": 8,
+      "queries": [
+        "لقطة سينمائية لحشود تسير بوقار نحو ضوء أبيض ساطع يملأ الأفق",
+        "مشهد لضوء سماوي ينهمر من السماء على واحة هادئة توحي بالطهر",
+        "لقطة واسعة لصحراء شاسعة تحت سماء تتلألأ بأنوار روحانية في الفجر",
+        "تصوير فني لأشعة الشمس تتسلل عبر أعمدة مبنى تاريخي عريق وأصيل"
+      ],
+      "clip_id": "1439",
+      "confidence": 0.7,
+      "reason": "The crowd of people in white garments visually evokes the spiritual gathering and resurrection mentioned in the verse (the 'hour'), where the believers meet the Prophet.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1439.mp4"
+    },
+    {
+      "verse": 9,
+      "queries": [
+        "لقطة سينمائية لغرفة عربية قديمة هادئة يتسلل إليها نور الفجر",
+        "ضوء شمس ساطع ينفذ من نافذة خشبية قديمة توحي بالولادة المباركة",
+        "مشهد بانورامي لبيوت مكة القديمة بين الجبال في لحظة شروق هادئة",
+        "سماء صافية مرصعة بالنجوم اللامعة في ليلة مباركة يملؤها السكون"
+      ],
+      "clip_id": "0027",
+      "confidence": 0.8,
+      "reason": "The clip provides the essential historical and geographical context of Mecca and the Kaaba, which is the birthplace of 'Amina's firstborn' mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0027.mp4"
+    },
+    {
+      "verse": 10,
+      "queries": [
+        "مشهد لشروق الشمس يملأ الأفق بالنور فوق تلال رملية ممتدة",
+        "لقطة سينمائية لبيوت طينية قديمة في المدينة المنورة يغمرها ضوء الصباح",
+        "رجل في زي تاريخي ينظر بخشوع نحو سماء مضيئة بنور الفجر",
+        "مشهد طبيعي مشرق لنور يتخلل أغصان أشجار النخيل في واحة هادئة"
+      ],
+      "clip_id": "0773",
+      "confidence": 0.6,
+      "reason": "The clip shows a historical figure in an illuminated (lit) setting with a serious expression, matching the verse's spiritual themes of 'blessed light' and 'guidance' within a reverent context.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0773.mp4"
+    },
+    {
+      "verse": 11,
+      "queries": [
+        "لقطة مقربة لأيدٍ مرفوعة بالدعاء نحو السماء الصافية في سكون الليل",
+        "مشهد طبيعي لجنات خضراء وارفة الظلال مع جداول ماء ونور ساطع",
+        "رجال بملابس عربية قديمة ينظرون للأفق بملامح يملؤها الرجاء والخشوع",
+        "لقطة سينمائية لنور الشمس القوي وهو يغمر واحة خضراء هادئة"
+      ],
+      "clip_id": "1644",
+      "confidence": 0.9,
+      "reason": "The clip shows a man in deep, emotional supplication, which directly reflects the opening prayer 'Ya Rabb' (O Lord) of the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1644.mp4"
+    },
+    {
+      "verse": 12,
+      "queries": [
+        "مشهد سينمائي لحديقة غناء وارفة الظلال مع أنهار جارية ونور مشرق",
+        "لقطة قريبة ليدين مرفوعتين للسماء في لحظة دعاء وتضرع بخشوع",
+        "منظر طبيعي مهيب لقمم جبال شاهقة تعلوها السحب في ضياء الفجر",
+        "لقطة لمدينة قديمة هادئة بمآذنها تحت سماء صافية توحي بالسمو والرفعة"
+      ],
+      "clip_id": "0727",
+      "confidence": 0.85,
+      "reason": "The clip of men looking upward with awe and tears perfectly captures the emotional state of a heartfelt supplication (Du'a) for Paradise and the reverence for the 'Possessor of Majesty'.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0727.mp4"
+    },
+    {
+      "verse": 13,
+      "queries": [
+        "لقطة مقربة لرجل بملابس عربية قديمة تفيض عيناه بالدمع والأسى",
+        "رجل يتوقف فجأة ويضع يده على قلبه متأثراً بسماع خبر حزين",
+        "شخص يمشي وحيداً في أزقة مدينة طينية قديمة بملامح حزينة",
+        "مشهد لمقبرة قديمة في الصحراء وقت الغروب يوحي بالفقد والوداع"
+      ],
+      "clip_id": "0724",
+      "confidence": 0.9,
+      "reason": "The clip captures a deep sense of grief and personal sorrow that reflects the poet's intense emotional reaction and vow to weep for the Prophet.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0724.mp4"
+    },
+    {
+      "verse": 14,
+      "queries": [
+        "لقطة قريبة لتراب قبر بسيط في بيئة صحراوية قديمة حزينة",
+        "مجموعة من الرجال بملابس تاريخية يجلسون في حزن شديد بالمدينة",
+        "لقطة سينمائية لرجل يغطي وجهه بيديه تعبيراً عن لوعة الفراق",
+        "غروب الشمس الحزين خلف أشجار النخيل في قرية عربية قديمة"
+      ],
+      "clip_id": "1643",
+      "confidence": 0.9,
+      "reason": "The clip depicts a group of men in a historical setting expressing profound grief and crying, which directly visualizes the 'Ansar' and 'rahth' mourning mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1643.mp4"
+    },
+    {
+      "verse": 15,
+      "queries": [
+        "مشهد لأزقة مدينة قديمة ضيقة ومظلمة توحي بالوحشة والضيق الشديد",
+        "لقطة قريبة لوجه رجل تملؤه الكآبة والحزن العميق في إضاءة خافتة",
+        "تجمع لرجال بزي عربي قديم تظهر عليهم علامات الفجيعة والانكسار",
+        "لقطة واسعة لبيوت طينية قديمة تحت سماء داكنة تعكس أجواء الحزن"
+      ],
+      "clip_id": "0479",
+      "confidence": 0.9,
+      "reason": "The clip depicts a group of men with grim and dejected expressions, which perfectly visualizes the collective grief of the Ansar and the metaphor of their faces 'turning black' from sorrow.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0479.mp4"
+    },
+    {
+      "verse": 16,
+      "queries": [
+        "لقطة سينمائية للمسجد النبوي والقباب الخضراء بالمدينة المنورة في جو مهيب",
+        "مشهد لبيوت طينية قديمة وأزقة تاريخية في المدينة المنورة وسط النخيل",
+        "إضاءة خافتة ونور هادئ يغمر معالم معمارية قديمة في المدينة المنورة",
+        "رجل بزي تاريخي يقف بوقار وتأمل أمام أسوار المدينة المنورة القديمة"
+      ],
+      "clip_id": "1445",
+      "confidence": 0.85,
+      "reason": "The dignified presence in a white robe among palm trees perfectly captures the setting of Medina (the city of the Prophet's grave) and the sense of honor and gratitude expressed by the Ansar in this verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1445.mp4"
+    },
+    {
+      "verse": 17,
+      "queries": [
+        "مجموعة من الرجال بملابس تاريخية في المدينة المنورة تظهر عليهم السكينة",
+        "لقطة واسعة لبساتين النخيل والبيوت الطينية القديمة في فجر هادئ",
+        "شعاع من النور الساطع ينهمر على طريق بين بيوت عربية قديمة",
+        "رجال من الأنصار يقفون في حلقة بوقار وامتنان في ساحة واسعة"
+      ],
+      "clip_id": "0761",
+      "confidence": 0.9,
+      "reason": "The clip explicitly mentions the Ansar and Muslims in Medina, perfectly aligning with the verse's focus on God honoring and guiding the Ansar through the Prophet.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0761.mp4"
+    },
+    {
+      "verse": 18,
+      "queries": [
+        "لقطة سينمائية لأشعة نور ساطعة تنهمر من السماء بين السحب",
+        "مشهد مهيب للقباب والمآذن في المدينة المنورة وقت الفجر",
+        "ظلال لشخص يرفع يديه بالدعاء بخشوع أمام ضوء فجر خافت",
+        "سديم كوني مذهل في الفضاء الخارجي يجسد عظمة الملكوت والجلال"
+      ],
+      "clip_id": "1691",
+      "confidence": 0.85,
+      "reason": "The silhouette of the mosque and minarets at dawn or dusk perfectly captures the spiritual and reverent mood of sending blessings (Salawat) upon the Prophet.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/1691.mp4"
+    },
+    {
+      "verse": 19,
+      "queries": [
+        "مشهد لأشخاص يتبادلون نظرات خفية في أزقة مدينة طينية قديمة",
+        "لقطة سينمائية لغروب الشمس فوق مدينة يثرب القديمة وبساتين النخيل",
+        "صورة لمقبرة صحراوية قديمة يعلوها الحزن والهدوء تحت سماء غائمة",
+        "تجمع من الناس يراقبون حدثاً مهيباً من خلف أسوار حجرية قديمة"
+      ],
+      "clip_id": "0300",
+      "confidence": 0.6,
+      "reason": "The clip shows a crowd gathered in an ancient fortified setting, which visually represents the different communities of Yathrib mentioned in the verse.",
+      "source_path": "/Volumes/Alhamdulillah/Projects/Tools/Clipper/clips/0300.mp4"
+    }
+  ]
+}

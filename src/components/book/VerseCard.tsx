@@ -13,12 +13,12 @@ const corners = [
 ];
 
 /** A full "بيت": media on top, banner with صدر / عجز overlapping its lower edge. */
-export const VerseCard = memo(function VerseCard({ verse, active }: { verse: Verse; active: boolean }) {
+export const VerseCard = memo(function VerseCard({ verse, active, near }: { verse: Verse; active: boolean; near: boolean }) {
   const { sadr, ajuz } = splitVerse(verse.text);
   return (
     <figure className="relative m-0 flex min-h-0 flex-col">
       <div className="media-frame relative min-h-0 flex-1">
-        <VerseMedia media={verse.media} label={`${sadr} ${ajuz ?? ""}`} active={active} />
+        <VerseMedia media={verse.media} label={`${sadr} ${ajuz ?? ""}`} active={active} near={near} />
         {corners.map((pos) => (
           <FrameBracket key={pos} className={`pointer-events-none absolute h-[6cqw] w-[6cqw] text-[#c9a45c] drop-shadow ${pos}`} />
         ))}

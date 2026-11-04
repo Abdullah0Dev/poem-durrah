@@ -132,8 +132,9 @@ export function Book({ title, poems }: Diwan) {
     goToPage,
   }), [turnByControl, goToPage, current, count]);
 
-  const page = (p: RenderPage | undefined, number: number, side: "left" | "right", active: boolean, nav: NavMode): ReactNode => (
-    <Page title={title} page={p} number={number} side={side} active={active} nav={nav} />
+  const near = (k: number) => Math.abs(current - k) <= 1;
+  const page = (p: RenderPage | undefined, number: number, side: "left" | "right", index: number, nav: NavMode): ReactNode => (
+    <Page title={title} page={p} number={number} side={side} active={current === index} near={near(index)} nav={nav} />
   );
 
   // Mount only the sheets near the open page.
@@ -142,13 +143,13 @@ export function Book({ title, poems }: Diwan) {
   const leaves: { j: number; front: ReactNode; back?: ReactNode }[] = [];
   for (let j = lo; j <= hi; j++) {
     if (single) {
-      leaves.push({ j, front: page(pages[j], j + 1, "left", current === j, "both") });
+      leaves.push({ j, front: page(pages[j], j + 1, "left", j, "both") });
     } else {
       const after = spreads[j + 1];
       leaves.push({
         j,
-        front: page(spreads[j].left, 2 * j + 2, "left", current === j, "next"),
-        back: after ? page(after.right, 2 * j + 3, "right", current === j + 1, "prev") : undefined,
+        front: page(spreads[j].left, 2 * j + 2, "left", j, "next"),
+        back: after ? page(after.right, 2 * j + 3, "right", j + 1, "prev") : undefined,
       });
     }
   }
@@ -200,7 +201,7 @@ export function Book({ title, poems }: Diwan) {
 
               {!single && current <= 1 && (
                 <div className="absolute right-0 top-0 h-full w-1/2">
-                  {page(spreads[0].right, 1, "right", current === 0, "prev")}
+                  {page(spreads[0].right, 1, "right", 0, "prev")}
                 </div>
               )}
 
