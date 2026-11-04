@@ -67,7 +67,7 @@ function Colophon() {
   return (
     <div className="flex flex-col items-center justify-center gap-[1cqw] text-[#6b4a22]" aria-hidden>
       <FooterOrnament className="h-[5cqw] w-[30cqw]" />
-      <span className="ink text-[4cqw] font-bold text-[#4a2f14]">تَمَّتِ القَصيدة</span>
+      <span className="ink text-[4cqw] font-bold text-[#4a2f14]">تَمَّتِ القَصيدة بحمد الله</span>
     </div>
   );
 }
